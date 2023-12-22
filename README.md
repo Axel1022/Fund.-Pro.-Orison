@@ -82,6 +82,6 @@ Derechos de autor (c) 2022 Gary Alexander Campusano Paredes
 - **Desarrollador 🧑‍💻:** Gary Alexander Campusano Paredes
 - **[LinkedIn](https://www.linkedin.com/in/gary-alexander-campusano-paredes-87a28724a/)**
 - **Correo Electrónico 📧:** ingcampusano@outlook.com
-- **Instituto 🏢:** Instituto Tecnológico de Las Américas (ITLA)
+- **Instituto 🏢:** Instituto Tecnológico de Las Américas (ITLA).
 
 ¡Gracias por revisar mi progreso en el lenguaje de programación C#! Si tienes alguna pregunta o sugerencia, no dudes en contactarme! 🚀
