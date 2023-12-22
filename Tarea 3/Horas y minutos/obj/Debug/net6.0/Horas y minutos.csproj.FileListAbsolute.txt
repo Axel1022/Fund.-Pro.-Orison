@@ -1,0 +1,30 @@
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Horas y minutos\bin\Debug\net6.0\Horas y minutos.exe
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Horas y minutos\bin\Debug\net6.0\Horas y minutos.deps.json
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Horas y minutos\bin\Debug\net6.0\Horas y minutos.runtimeconfig.json
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Horas y minutos\bin\Debug\net6.0\Horas y minutos.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Horas y minutos\bin\Debug\net6.0\Horas y minutos.pdb
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Horas y minutos\obj\Debug\net6.0\Horas y minutos.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Horas y minutos\obj\Debug\net6.0\Horas y minutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Horas y minutos\obj\Debug\net6.0\Horas y minutos.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Horas y minutos\obj\Debug\net6.0\Horas y minutos.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Horas y minutos\obj\Debug\net6.0\Horas y minutos.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Horas y minutos\obj\Debug\net6.0\Horas y minutos.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Horas y minutos\obj\Debug\net6.0\refint\Horas y minutos.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Horas y minutos\obj\Debug\net6.0\Horas y minutos.pdb
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Horas y minutos\obj\Debug\net6.0\Horas y minutos.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Horas y minutos\obj\Debug\net6.0\ref\Horas y minutos.dll
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tarea 3\Horas y minutos\bin\Debug\net6.0\Horas y minutos.exe
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tarea 3\Horas y minutos\bin\Debug\net6.0\Horas y minutos.deps.json
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tarea 3\Horas y minutos\bin\Debug\net6.0\Horas y minutos.runtimeconfig.json
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tarea 3\Horas y minutos\bin\Debug\net6.0\Horas y minutos.dll
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tarea 3\Horas y minutos\bin\Debug\net6.0\Horas y minutos.pdb
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tarea 3\Horas y minutos\obj\Debug\net6.0\Horas y minutos.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tarea 3\Horas y minutos\obj\Debug\net6.0\Horas y minutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tarea 3\Horas y minutos\obj\Debug\net6.0\Horas y minutos.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tarea 3\Horas y minutos\obj\Debug\net6.0\Horas y minutos.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tarea 3\Horas y minutos\obj\Debug\net6.0\Horas y minutos.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tarea 3\Horas y minutos\obj\Debug\net6.0\Horas y minutos.dll
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tarea 3\Horas y minutos\obj\Debug\net6.0\refint\Horas y minutos.dll
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tarea 3\Horas y minutos\obj\Debug\net6.0\Horas y minutos.pdb
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tarea 3\Horas y minutos\obj\Debug\net6.0\Horas y minutos.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tarea 3\Horas y minutos\obj\Debug\net6.0\ref\Horas y minutos.dll

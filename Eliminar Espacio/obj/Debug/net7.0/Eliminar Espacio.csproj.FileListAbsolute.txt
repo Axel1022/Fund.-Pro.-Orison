@@ -1,0 +1,15 @@
+C:\Users\IngCa\Desktop\Programas de CS\Eliminar Espacio\bin\Debug\net7.0\Eliminar Espacio.exe
+C:\Users\IngCa\Desktop\Programas de CS\Eliminar Espacio\bin\Debug\net7.0\Eliminar Espacio.deps.json
+C:\Users\IngCa\Desktop\Programas de CS\Eliminar Espacio\bin\Debug\net7.0\Eliminar Espacio.runtimeconfig.json
+C:\Users\IngCa\Desktop\Programas de CS\Eliminar Espacio\bin\Debug\net7.0\Eliminar Espacio.dll
+C:\Users\IngCa\Desktop\Programas de CS\Eliminar Espacio\bin\Debug\net7.0\Eliminar Espacio.pdb
+C:\Users\IngCa\Desktop\Programas de CS\Eliminar Espacio\obj\Debug\net7.0\Eliminar Espacio.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Programas de CS\Eliminar Espacio\obj\Debug\net7.0\Eliminar Espacio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Programas de CS\Eliminar Espacio\obj\Debug\net7.0\Eliminar Espacio.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Programas de CS\Eliminar Espacio\obj\Debug\net7.0\Eliminar Espacio.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Programas de CS\Eliminar Espacio\obj\Debug\net7.0\Eliminar Espacio.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Programas de CS\Eliminar Espacio\obj\Debug\net7.0\Eliminar Espacio.dll
+C:\Users\IngCa\Desktop\Programas de CS\Eliminar Espacio\obj\Debug\net7.0\refint\Eliminar Espacio.dll
+C:\Users\IngCa\Desktop\Programas de CS\Eliminar Espacio\obj\Debug\net7.0\Eliminar Espacio.pdb
+C:\Users\IngCa\Desktop\Programas de CS\Eliminar Espacio\obj\Debug\net7.0\Eliminar Espacio.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Programas de CS\Eliminar Espacio\obj\Debug\net7.0\ref\Eliminar Espacio.dll

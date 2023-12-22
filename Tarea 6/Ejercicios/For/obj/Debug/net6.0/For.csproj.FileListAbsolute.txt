@@ -1,0 +1,45 @@
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\For\bin\Debug\net6.0\For.exe
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\For\bin\Debug\net6.0\For.deps.json
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\For\bin\Debug\net6.0\For.runtimeconfig.json
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\For\bin\Debug\net6.0\For.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\For\bin\Debug\net6.0\For.pdb
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\For\obj\Debug\net6.0\For.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\For\obj\Debug\net6.0\For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\For\obj\Debug\net6.0\For.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\For\obj\Debug\net6.0\For.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\For\obj\Debug\net6.0\For.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\For\obj\Debug\net6.0\For.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\For\obj\Debug\net6.0\refint\For.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\For\obj\Debug\net6.0\For.pdb
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\For\obj\Debug\net6.0\For.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\For\obj\Debug\net6.0\ref\For.dll
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\Ejercicios\For\bin\Debug\net6.0\For.exe
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\Ejercicios\For\bin\Debug\net6.0\For.deps.json
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\Ejercicios\For\bin\Debug\net6.0\For.runtimeconfig.json
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\Ejercicios\For\bin\Debug\net6.0\For.dll
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\Ejercicios\For\bin\Debug\net6.0\For.pdb
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\Ejercicios\For\obj\Debug\net6.0\For.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\Ejercicios\For\obj\Debug\net6.0\For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\Ejercicios\For\obj\Debug\net6.0\For.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\Ejercicios\For\obj\Debug\net6.0\For.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\Ejercicios\For\obj\Debug\net6.0\For.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\Ejercicios\For\obj\Debug\net6.0\For.dll
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\Ejercicios\For\obj\Debug\net6.0\refint\For.dll
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\Ejercicios\For\obj\Debug\net6.0\For.pdb
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\Ejercicios\For\obj\Debug\net6.0\For.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\Ejercicios\For\obj\Debug\net6.0\ref\For.dll
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tarea 6\Ejercicios\For\bin\Debug\net6.0\For.exe
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tarea 6\Ejercicios\For\bin\Debug\net6.0\For.deps.json
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tarea 6\Ejercicios\For\bin\Debug\net6.0\For.runtimeconfig.json
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tarea 6\Ejercicios\For\bin\Debug\net6.0\For.dll
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tarea 6\Ejercicios\For\bin\Debug\net6.0\For.pdb
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tarea 6\Ejercicios\For\obj\Debug\net6.0\For.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tarea 6\Ejercicios\For\obj\Debug\net6.0\For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tarea 6\Ejercicios\For\obj\Debug\net6.0\For.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tarea 6\Ejercicios\For\obj\Debug\net6.0\For.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tarea 6\Ejercicios\For\obj\Debug\net6.0\For.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tarea 6\Ejercicios\For\obj\Debug\net6.0\For.dll
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tarea 6\Ejercicios\For\obj\Debug\net6.0\refint\For.dll
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tarea 6\Ejercicios\For\obj\Debug\net6.0\For.pdb
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tarea 6\Ejercicios\For\obj\Debug\net6.0\For.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tarea 6\Ejercicios\For\obj\Debug\net6.0\ref\For.dll

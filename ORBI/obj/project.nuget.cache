@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j/CnAO9qdBomB1b18MAXa4rYpK2LkXpBdz7nIoyViUzyuKu07E5c8jssVGZxlBxAnt37v91T1LNS0q8HkgShvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IngCa\\OneDrive\\Escritorio\\Carpetas\\Programacion C#\\ORBI\\Tarea5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IngCa\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

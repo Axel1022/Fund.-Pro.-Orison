@@ -1,0 +1,45 @@
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\Xd While\bin\Debug\net6.0\Xd While.exe
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\Xd While\bin\Debug\net6.0\Xd While.deps.json
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\Xd While\bin\Debug\net6.0\Xd While.runtimeconfig.json
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\Xd While\bin\Debug\net6.0\Xd While.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\Xd While\bin\Debug\net6.0\Xd While.pdb
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\Xd While\obj\Debug\net6.0\Xd While.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\Xd While\obj\Debug\net6.0\Xd While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\Xd While\obj\Debug\net6.0\Xd While.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\Xd While\obj\Debug\net6.0\Xd While.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\Xd While\obj\Debug\net6.0\Xd While.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\Xd While\obj\Debug\net6.0\Xd While.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\Xd While\obj\Debug\net6.0\refint\Xd While.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\Xd While\obj\Debug\net6.0\Xd While.pdb
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\Xd While\obj\Debug\net6.0\Xd While.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\Xd While\obj\Debug\net6.0\ref\Xd While.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\While\bin\Debug\net6.0\Xd While.exe
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\While\bin\Debug\net6.0\Xd While.deps.json
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\While\bin\Debug\net6.0\Xd While.runtimeconfig.json
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\While\bin\Debug\net6.0\Xd While.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\While\bin\Debug\net6.0\Xd While.pdb
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\While\obj\Debug\net6.0\Xd While.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\While\obj\Debug\net6.0\Xd While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\While\obj\Debug\net6.0\Xd While.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\While\obj\Debug\net6.0\Xd While.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\While\obj\Debug\net6.0\Xd While.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\While\obj\Debug\net6.0\Xd While.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\While\obj\Debug\net6.0\refint\Xd While.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\While\obj\Debug\net6.0\Xd While.pdb
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\While\obj\Debug\net6.0\Xd While.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 6\Ejercicios\While\obj\Debug\net6.0\ref\Xd While.dll
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\Ejercicios\While\bin\Debug\net6.0\Xd While.exe
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\Ejercicios\While\bin\Debug\net6.0\Xd While.deps.json
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\Ejercicios\While\bin\Debug\net6.0\Xd While.runtimeconfig.json
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\Ejercicios\While\bin\Debug\net6.0\Xd While.dll
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\Ejercicios\While\bin\Debug\net6.0\Xd While.pdb
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\Ejercicios\While\obj\Debug\net6.0\Xd While.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\Ejercicios\While\obj\Debug\net6.0\Xd While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\Ejercicios\While\obj\Debug\net6.0\Xd While.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\Ejercicios\While\obj\Debug\net6.0\Xd While.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\Ejercicios\While\obj\Debug\net6.0\Xd While.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\Ejercicios\While\obj\Debug\net6.0\Xd While.dll
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\Ejercicios\While\obj\Debug\net6.0\refint\Xd While.dll
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\Ejercicios\While\obj\Debug\net6.0\Xd While.pdb
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\Ejercicios\While\obj\Debug\net6.0\Xd While.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\Ejercicios\While\obj\Debug\net6.0\ref\Xd While.dll

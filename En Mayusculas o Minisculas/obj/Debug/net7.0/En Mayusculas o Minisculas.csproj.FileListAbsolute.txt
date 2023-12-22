@@ -1,0 +1,15 @@
+C:\Users\IngCa\Desktop\Programas de CS\En Mayusculas o Minisculas\bin\Debug\net7.0\En Mayusculas o Minisculas.exe
+C:\Users\IngCa\Desktop\Programas de CS\En Mayusculas o Minisculas\bin\Debug\net7.0\En Mayusculas o Minisculas.deps.json
+C:\Users\IngCa\Desktop\Programas de CS\En Mayusculas o Minisculas\bin\Debug\net7.0\En Mayusculas o Minisculas.runtimeconfig.json
+C:\Users\IngCa\Desktop\Programas de CS\En Mayusculas o Minisculas\bin\Debug\net7.0\En Mayusculas o Minisculas.dll
+C:\Users\IngCa\Desktop\Programas de CS\En Mayusculas o Minisculas\bin\Debug\net7.0\En Mayusculas o Minisculas.pdb
+C:\Users\IngCa\Desktop\Programas de CS\En Mayusculas o Minisculas\obj\Debug\net7.0\En Mayusculas o Minisculas.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Programas de CS\En Mayusculas o Minisculas\obj\Debug\net7.0\En Mayusculas o Minisculas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Programas de CS\En Mayusculas o Minisculas\obj\Debug\net7.0\En Mayusculas o Minisculas.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Programas de CS\En Mayusculas o Minisculas\obj\Debug\net7.0\En Mayusculas o Minisculas.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Programas de CS\En Mayusculas o Minisculas\obj\Debug\net7.0\En Mayusculas o Minisculas.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Programas de CS\En Mayusculas o Minisculas\obj\Debug\net7.0\En Mayusculas o Minisculas.dll
+C:\Users\IngCa\Desktop\Programas de CS\En Mayusculas o Minisculas\obj\Debug\net7.0\refint\En Mayusculas o Minisculas.dll
+C:\Users\IngCa\Desktop\Programas de CS\En Mayusculas o Minisculas\obj\Debug\net7.0\En Mayusculas o Minisculas.pdb
+C:\Users\IngCa\Desktop\Programas de CS\En Mayusculas o Minisculas\obj\Debug\net7.0\En Mayusculas o Minisculas.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Programas de CS\En Mayusculas o Minisculas\obj\Debug\net7.0\ref\En Mayusculas o Minisculas.dll

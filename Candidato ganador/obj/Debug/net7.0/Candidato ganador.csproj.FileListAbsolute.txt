@@ -1,0 +1,44 @@
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Programas para la competencias\Candidato ganador\bin\Debug\net7.0\Candidato ganador.exe
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Programas para la competencias\Candidato ganador\bin\Debug\net7.0\Candidato ganador.deps.json
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Programas para la competencias\Candidato ganador\bin\Debug\net7.0\Candidato ganador.runtimeconfig.json
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Programas para la competencias\Candidato ganador\bin\Debug\net7.0\Candidato ganador.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Programas para la competencias\Candidato ganador\bin\Debug\net7.0\Candidato ganador.pdb
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Programas para la competencias\Candidato ganador\obj\Debug\net7.0\Candidato ganador.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Programas para la competencias\Candidato ganador\obj\Debug\net7.0\Candidato ganador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Programas para la competencias\Candidato ganador\obj\Debug\net7.0\Candidato ganador.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Programas para la competencias\Candidato ganador\obj\Debug\net7.0\Candidato ganador.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Programas para la competencias\Candidato ganador\obj\Debug\net7.0\Candidato ganador.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Programas para la competencias\Candidato ganador\obj\Debug\net7.0\Candidato ganador.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Programas para la competencias\Candidato ganador\obj\Debug\net7.0\refint\Candidato ganador.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Programas para la competencias\Candidato ganador\obj\Debug\net7.0\Candidato ganador.pdb
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Programas para la competencias\Candidato ganador\obj\Debug\net7.0\Candidato ganador.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Programas para la competencias\Candidato ganador\obj\Debug\net7.0\ref\Candidato ganador.dll
+C:\Users\IngCa\Desktop\Programas de CS\Candidato ganador\bin\Debug\net7.0\Candidato ganador.exe
+C:\Users\IngCa\Desktop\Programas de CS\Candidato ganador\bin\Debug\net7.0\Candidato ganador.deps.json
+C:\Users\IngCa\Desktop\Programas de CS\Candidato ganador\bin\Debug\net7.0\Candidato ganador.runtimeconfig.json
+C:\Users\IngCa\Desktop\Programas de CS\Candidato ganador\bin\Debug\net7.0\Candidato ganador.dll
+C:\Users\IngCa\Desktop\Programas de CS\Candidato ganador\bin\Debug\net7.0\Candidato ganador.pdb
+C:\Users\IngCa\Desktop\Programas de CS\Candidato ganador\obj\Debug\net7.0\Candidato ganador.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Programas de CS\Candidato ganador\obj\Debug\net7.0\Candidato ganador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Programas de CS\Candidato ganador\obj\Debug\net7.0\Candidato ganador.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Programas de CS\Candidato ganador\obj\Debug\net7.0\Candidato ganador.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Programas de CS\Candidato ganador\obj\Debug\net7.0\Candidato ganador.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Programas de CS\Candidato ganador\obj\Debug\net7.0\Candidato ganador.dll
+C:\Users\IngCa\Desktop\Programas de CS\Candidato ganador\obj\Debug\net7.0\refint\Candidato ganador.dll
+C:\Users\IngCa\Desktop\Programas de CS\Candidato ganador\obj\Debug\net7.0\Candidato ganador.pdb
+C:\Users\IngCa\Desktop\Programas de CS\Candidato ganador\obj\Debug\net7.0\Candidato ganador.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Programas de CS\Candidato ganador\obj\Debug\net7.0\ref\Candidato ganador.dll
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Candidato ganador\bin\Debug\net7.0\Candidato ganador.exe
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Candidato ganador\bin\Debug\net7.0\Candidato ganador.deps.json
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Candidato ganador\bin\Debug\net7.0\Candidato ganador.runtimeconfig.json
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Candidato ganador\bin\Debug\net7.0\Candidato ganador.dll
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Candidato ganador\bin\Debug\net7.0\Candidato ganador.pdb
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Candidato ganador\obj\Debug\net7.0\Candidato ganador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Candidato ganador\obj\Debug\net7.0\Candidato ganador.AssemblyInfoInputs.cache
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Candidato ganador\obj\Debug\net7.0\Candidato ganador.AssemblyInfo.cs
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Candidato ganador\obj\Debug\net7.0\Candidato ganador.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Candidato ganador\obj\Debug\net7.0\Candidato ganador.dll
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Candidato ganador\obj\Debug\net7.0\refint\Candidato ganador.dll
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Candidato ganador\obj\Debug\net7.0\Candidato ganador.pdb
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Candidato ganador\obj\Debug\net7.0\Candidato ganador.genruntimeconfig.cache
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Candidato ganador\obj\Debug\net7.0\ref\Candidato ganador.dll

@@ -1,0 +1,15 @@
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Nivel 1\bin\Debug\net7.0\Nivel 1.exe
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Nivel 1\bin\Debug\net7.0\Nivel 1.deps.json
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Nivel 1\bin\Debug\net7.0\Nivel 1.runtimeconfig.json
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Nivel 1\bin\Debug\net7.0\Nivel 1.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Nivel 1\bin\Debug\net7.0\Nivel 1.pdb
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Nivel 1\obj\Debug\net7.0\Nivel 1.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Nivel 1\obj\Debug\net7.0\Nivel 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Nivel 1\obj\Debug\net7.0\Nivel 1.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Nivel 1\obj\Debug\net7.0\Nivel 1.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Nivel 1\obj\Debug\net7.0\Nivel 1.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Nivel 1\obj\Debug\net7.0\Nivel 1.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Nivel 1\obj\Debug\net7.0\refint\Nivel 1.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Nivel 1\obj\Debug\net7.0\Nivel 1.pdb
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Nivel 1\obj\Debug\net7.0\Nivel 1.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Nivel 1\obj\Debug\net7.0\ref\Nivel 1.dll

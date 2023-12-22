@@ -1,0 +1,75 @@
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Calculadora\Adivina un numero\bin\Debug\net6.0\Adivina un numero.exe
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Calculadora\Adivina un numero\bin\Debug\net6.0\Adivina un numero.deps.json
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Calculadora\Adivina un numero\bin\Debug\net6.0\Adivina un numero.runtimeconfig.json
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Calculadora\Adivina un numero\bin\Debug\net6.0\Adivina un numero.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Calculadora\Adivina un numero\bin\Debug\net6.0\Adivina un numero.pdb
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Calculadora\Adivina un numero\obj\Debug\net6.0\Adivina un numero.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Calculadora\Adivina un numero\obj\Debug\net6.0\Adivina un numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Calculadora\Adivina un numero\obj\Debug\net6.0\Adivina un numero.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Calculadora\Adivina un numero\obj\Debug\net6.0\Adivina un numero.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Calculadora\Adivina un numero\obj\Debug\net6.0\Adivina un numero.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Calculadora\Adivina un numero\obj\Debug\net6.0\Adivina un numero.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Calculadora\Adivina un numero\obj\Debug\net6.0\refint\Adivina un numero.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Calculadora\Adivina un numero\obj\Debug\net6.0\Adivina un numero.pdb
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Calculadora\Adivina un numero\obj\Debug\net6.0\Adivina un numero.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Calculadora\Adivina un numero\obj\Debug\net6.0\ref\Adivina un numero.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Adivina un numero\bin\Debug\net6.0\Adivina un numero.exe
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Adivina un numero\bin\Debug\net6.0\Adivina un numero.deps.json
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Adivina un numero\bin\Debug\net6.0\Adivina un numero.runtimeconfig.json
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Adivina un numero\bin\Debug\net6.0\Adivina un numero.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Adivina un numero\bin\Debug\net6.0\Adivina un numero.pdb
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Adivina un numero\obj\Debug\net6.0\Adivina un numero.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Adivina un numero\obj\Debug\net6.0\Adivina un numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Adivina un numero\obj\Debug\net6.0\Adivina un numero.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Adivina un numero\obj\Debug\net6.0\Adivina un numero.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Adivina un numero\obj\Debug\net6.0\Adivina un numero.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Adivina un numero\obj\Debug\net6.0\Adivina un numero.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Adivina un numero\obj\Debug\net6.0\refint\Adivina un numero.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Adivina un numero\obj\Debug\net6.0\Adivina un numero.pdb
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Adivina un numero\obj\Debug\net6.0\Adivina un numero.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Adivina un numero\obj\Debug\net6.0\ref\Adivina un numero.dll
+C:\Users\IngCa\Desktop\Programas de CS\Adivina un numero\obj\Debug\net6.0\Adivina un numero.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Programas de CS\Adivina un numero\obj\Debug\net6.0\Adivina un numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Programas de CS\Adivina un numero\obj\Debug\net6.0\Adivina un numero.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Programas de CS\Adivina un numero\obj\Debug\net6.0\Adivina un numero.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Programas de CS\Adivina un numero\obj\Debug\net6.0\Adivina un numero.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Programas de CS\Adivina un numero\obj\Debug\net6.0\Adivina un numero.dll
+C:\Users\IngCa\Desktop\Programas de CS\Adivina un numero\obj\Debug\net6.0\refint\Adivina un numero.dll
+C:\Users\IngCa\Desktop\Programas de CS\Adivina un numero\obj\Debug\net6.0\Adivina un numero.pdb
+C:\Users\IngCa\Desktop\Programas de CS\Adivina un numero\bin\Debug\net6.0\Adivina un numero.exe
+C:\Users\IngCa\Desktop\Programas de CS\Adivina un numero\bin\Debug\net6.0\Adivina un numero.deps.json
+C:\Users\IngCa\Desktop\Programas de CS\Adivina un numero\bin\Debug\net6.0\Adivina un numero.runtimeconfig.json
+C:\Users\IngCa\Desktop\Programas de CS\Adivina un numero\bin\Debug\net6.0\Adivina un numero.dll
+C:\Users\IngCa\Desktop\Programas de CS\Adivina un numero\bin\Debug\net6.0\Adivina un numero.pdb
+C:\Users\IngCa\Desktop\Programas de CS\Adivina un numero\obj\Debug\net6.0\Adivina un numero.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Programas de CS\Adivina un numero\obj\Debug\net6.0\ref\Adivina un numero.dll
+C:\Users\IngCa\Desktop\Programacion C#\Adivina un numero\bin\Debug\net6.0\Adivina un numero.exe
+C:\Users\IngCa\Desktop\Programacion C#\Adivina un numero\bin\Debug\net6.0\Adivina un numero.deps.json
+C:\Users\IngCa\Desktop\Programacion C#\Adivina un numero\bin\Debug\net6.0\Adivina un numero.runtimeconfig.json
+C:\Users\IngCa\Desktop\Programacion C#\Adivina un numero\bin\Debug\net6.0\Adivina un numero.dll
+C:\Users\IngCa\Desktop\Programacion C#\Adivina un numero\bin\Debug\net6.0\Adivina un numero.pdb
+C:\Users\IngCa\Desktop\Programacion C#\Adivina un numero\obj\Debug\net6.0\Adivina un numero.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Programacion C#\Adivina un numero\obj\Debug\net6.0\Adivina un numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Programacion C#\Adivina un numero\obj\Debug\net6.0\Adivina un numero.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Programacion C#\Adivina un numero\obj\Debug\net6.0\Adivina un numero.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Programacion C#\Adivina un numero\obj\Debug\net6.0\Adivina un numero.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Programacion C#\Adivina un numero\obj\Debug\net6.0\Adivina un numero.dll
+C:\Users\IngCa\Desktop\Programacion C#\Adivina un numero\obj\Debug\net6.0\refint\Adivina un numero.dll
+C:\Users\IngCa\Desktop\Programacion C#\Adivina un numero\obj\Debug\net6.0\Adivina un numero.pdb
+C:\Users\IngCa\Desktop\Programacion C#\Adivina un numero\obj\Debug\net6.0\Adivina un numero.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Programacion C#\Adivina un numero\obj\Debug\net6.0\ref\Adivina un numero.dll
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Adivina un numero\bin\Debug\net6.0\Adivina un numero.exe
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Adivina un numero\bin\Debug\net6.0\Adivina un numero.deps.json
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Adivina un numero\bin\Debug\net6.0\Adivina un numero.runtimeconfig.json
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Adivina un numero\bin\Debug\net6.0\Adivina un numero.dll
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Adivina un numero\bin\Debug\net6.0\Adivina un numero.pdb
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Adivina un numero\obj\Debug\net6.0\Adivina un numero.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Adivina un numero\obj\Debug\net6.0\Adivina un numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Adivina un numero\obj\Debug\net6.0\Adivina un numero.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Adivina un numero\obj\Debug\net6.0\Adivina un numero.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Adivina un numero\obj\Debug\net6.0\Adivina un numero.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Adivina un numero\obj\Debug\net6.0\Adivina un numero.dll
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Adivina un numero\obj\Debug\net6.0\refint\Adivina un numero.dll
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Adivina un numero\obj\Debug\net6.0\Adivina un numero.pdb
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Adivina un numero\obj\Debug\net6.0\Adivina un numero.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Adivina un numero\obj\Debug\net6.0\ref\Adivina un numero.dll

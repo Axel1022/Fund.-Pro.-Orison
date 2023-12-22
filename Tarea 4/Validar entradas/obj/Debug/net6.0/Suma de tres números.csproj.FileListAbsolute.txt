@@ -1,0 +1,15 @@
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Tarea 4\Validar entradas\bin\Debug\net6.0\Suma de tres números.exe
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Tarea 4\Validar entradas\bin\Debug\net6.0\Suma de tres números.deps.json
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Tarea 4\Validar entradas\bin\Debug\net6.0\Suma de tres números.runtimeconfig.json
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Tarea 4\Validar entradas\bin\Debug\net6.0\Suma de tres números.dll
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Tarea 4\Validar entradas\bin\Debug\net6.0\Suma de tres números.pdb
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Tarea 4\Validar entradas\obj\Debug\net6.0\Suma de tres números.csproj.AssemblyReference.cache
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Tarea 4\Validar entradas\obj\Debug\net6.0\Suma de tres números.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Tarea 4\Validar entradas\obj\Debug\net6.0\Suma de tres números.AssemblyInfoInputs.cache
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Tarea 4\Validar entradas\obj\Debug\net6.0\Suma de tres números.AssemblyInfo.cs
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Tarea 4\Validar entradas\obj\Debug\net6.0\Suma de tres números.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Tarea 4\Validar entradas\obj\Debug\net6.0\Suma de tres números.dll
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Tarea 4\Validar entradas\obj\Debug\net6.0\refint\Suma de tres números.dll
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Tarea 4\Validar entradas\obj\Debug\net6.0\Suma de tres números.pdb
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Tarea 4\Validar entradas\obj\Debug\net6.0\Suma de tres números.genruntimeconfig.cache
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Tarea 4\Validar entradas\obj\Debug\net6.0\ref\Suma de tres números.dll

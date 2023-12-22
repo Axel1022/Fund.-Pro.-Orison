@@ -1,0 +1,45 @@
+C:\Users\IngCa\Desktop\Orison\Parte 3.1\bin\Debug\net6.0\Parte 3.1.exe
+C:\Users\IngCa\Desktop\Orison\Parte 3.1\bin\Debug\net6.0\Parte 3.1.deps.json
+C:\Users\IngCa\Desktop\Orison\Parte 3.1\bin\Debug\net6.0\Parte 3.1.runtimeconfig.json
+C:\Users\IngCa\Desktop\Orison\Parte 3.1\bin\Debug\net6.0\Parte 3.1.dll
+C:\Users\IngCa\Desktop\Orison\Parte 3.1\bin\Debug\net6.0\Parte 3.1.pdb
+C:\Users\IngCa\Desktop\Orison\Parte 3.1\obj\Debug\net6.0\Parte 3.1.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Orison\Parte 3.1\obj\Debug\net6.0\Parte 3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Orison\Parte 3.1\obj\Debug\net6.0\Parte 3.1.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Orison\Parte 3.1\obj\Debug\net6.0\Parte 3.1.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Orison\Parte 3.1\obj\Debug\net6.0\Parte 3.1.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Orison\Parte 3.1\obj\Debug\net6.0\Parte 3.1.dll
+C:\Users\IngCa\Desktop\Orison\Parte 3.1\obj\Debug\net6.0\refint\Parte 3.1.dll
+C:\Users\IngCa\Desktop\Orison\Parte 3.1\obj\Debug\net6.0\Parte 3.1.pdb
+C:\Users\IngCa\Desktop\Orison\Parte 3.1\obj\Debug\net6.0\Parte 3.1.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Orison\Parte 3.1\obj\Debug\net6.0\ref\Parte 3.1.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Parte 3.1\bin\Debug\net6.0\Parte 3.1.exe
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Parte 3.1\bin\Debug\net6.0\Parte 3.1.deps.json
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Parte 3.1\bin\Debug\net6.0\Parte 3.1.runtimeconfig.json
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Parte 3.1\bin\Debug\net6.0\Parte 3.1.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Parte 3.1\bin\Debug\net6.0\Parte 3.1.pdb
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Parte 3.1\obj\Debug\net6.0\Parte 3.1.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Parte 3.1\obj\Debug\net6.0\Parte 3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Parte 3.1\obj\Debug\net6.0\Parte 3.1.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Parte 3.1\obj\Debug\net6.0\Parte 3.1.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Parte 3.1\obj\Debug\net6.0\Parte 3.1.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Parte 3.1\obj\Debug\net6.0\Parte 3.1.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Parte 3.1\obj\Debug\net6.0\refint\Parte 3.1.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Parte 3.1\obj\Debug\net6.0\Parte 3.1.pdb
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Parte 3.1\obj\Debug\net6.0\Parte 3.1.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Parte 3.1\obj\Debug\net6.0\ref\Parte 3.1.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Operadores relacionales 1-10\bin\Debug\net6.0\Parte 3.1.exe
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Operadores relacionales 1-10\bin\Debug\net6.0\Parte 3.1.deps.json
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Operadores relacionales 1-10\bin\Debug\net6.0\Parte 3.1.runtimeconfig.json
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Operadores relacionales 1-10\bin\Debug\net6.0\Parte 3.1.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Operadores relacionales 1-10\bin\Debug\net6.0\Parte 3.1.pdb
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Operadores relacionales 1-10\obj\Debug\net6.0\Parte 3.1.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Operadores relacionales 1-10\obj\Debug\net6.0\Parte 3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Operadores relacionales 1-10\obj\Debug\net6.0\Parte 3.1.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Operadores relacionales 1-10\obj\Debug\net6.0\Parte 3.1.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Operadores relacionales 1-10\obj\Debug\net6.0\Parte 3.1.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Operadores relacionales 1-10\obj\Debug\net6.0\Parte 3.1.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Operadores relacionales 1-10\obj\Debug\net6.0\refint\Parte 3.1.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Operadores relacionales 1-10\obj\Debug\net6.0\Parte 3.1.pdb
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Operadores relacionales 1-10\obj\Debug\net6.0\Parte 3.1.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Operadores relacionales 1-10\obj\Debug\net6.0\ref\Parte 3.1.dll

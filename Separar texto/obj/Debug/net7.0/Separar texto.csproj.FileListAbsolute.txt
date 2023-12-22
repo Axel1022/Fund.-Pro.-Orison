@@ -1,0 +1,15 @@
+C:\Users\IngCa\Desktop\Programas de CS\Separar texto\bin\Debug\net7.0\Separar texto.exe
+C:\Users\IngCa\Desktop\Programas de CS\Separar texto\bin\Debug\net7.0\Separar texto.deps.json
+C:\Users\IngCa\Desktop\Programas de CS\Separar texto\bin\Debug\net7.0\Separar texto.runtimeconfig.json
+C:\Users\IngCa\Desktop\Programas de CS\Separar texto\bin\Debug\net7.0\Separar texto.dll
+C:\Users\IngCa\Desktop\Programas de CS\Separar texto\bin\Debug\net7.0\Separar texto.pdb
+C:\Users\IngCa\Desktop\Programas de CS\Separar texto\obj\Debug\net7.0\Separar texto.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Programas de CS\Separar texto\obj\Debug\net7.0\Separar texto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Programas de CS\Separar texto\obj\Debug\net7.0\Separar texto.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Programas de CS\Separar texto\obj\Debug\net7.0\Separar texto.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Programas de CS\Separar texto\obj\Debug\net7.0\Separar texto.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Programas de CS\Separar texto\obj\Debug\net7.0\Separar texto.dll
+C:\Users\IngCa\Desktop\Programas de CS\Separar texto\obj\Debug\net7.0\refint\Separar texto.dll
+C:\Users\IngCa\Desktop\Programas de CS\Separar texto\obj\Debug\net7.0\Separar texto.pdb
+C:\Users\IngCa\Desktop\Programas de CS\Separar texto\obj\Debug\net7.0\Separar texto.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Programas de CS\Separar texto\obj\Debug\net7.0\ref\Separar texto.dll

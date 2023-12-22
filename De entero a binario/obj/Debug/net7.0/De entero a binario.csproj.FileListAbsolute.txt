@@ -1,0 +1,66 @@
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\De entero a binario\bin\Debug\net7.0\De entero a binario.exe
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\De entero a binario\bin\Debug\net7.0\De entero a binario.deps.json
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\De entero a binario\bin\Debug\net7.0\De entero a binario.runtimeconfig.json
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\De entero a binario\bin\Debug\net7.0\De entero a binario.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\De entero a binario\bin\Debug\net7.0\De entero a binario.pdb
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\De entero a binario\obj\Debug\net7.0\De entero a binario.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\De entero a binario\obj\Debug\net7.0\De entero a binario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\De entero a binario\obj\Debug\net7.0\De entero a binario.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\De entero a binario\obj\Debug\net7.0\De entero a binario.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\De entero a binario\obj\Debug\net7.0\De entero a binario.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\De entero a binario\obj\Debug\net7.0\De entero a binario.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\De entero a binario\obj\Debug\net7.0\refint\De entero a binario.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\De entero a binario\obj\Debug\net7.0\De entero a binario.pdb
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\De entero a binario\obj\Debug\net7.0\De entero a binario.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\De entero a binario\obj\Debug\net7.0\ref\De entero a binario.dll
+C:\Users\IngCa\Desktop\Programas de CS\De entero a binario\bin\Debug\net7.0\De entero a binario.exe
+C:\Users\IngCa\Desktop\Programas de CS\De entero a binario\bin\Debug\net7.0\De entero a binario.deps.json
+C:\Users\IngCa\Desktop\Programas de CS\De entero a binario\bin\Debug\net7.0\De entero a binario.runtimeconfig.json
+C:\Users\IngCa\Desktop\Programas de CS\De entero a binario\bin\Debug\net7.0\De entero a binario.dll
+C:\Users\IngCa\Desktop\Programas de CS\De entero a binario\bin\Debug\net7.0\De entero a binario.pdb
+C:\Users\IngCa\Desktop\Programas de CS\De entero a binario\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\IngCa\Desktop\Programas de CS\De entero a binario\obj\Debug\net7.0\De entero a binario.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Programas de CS\De entero a binario\obj\Debug\net7.0\De entero a binario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Programas de CS\De entero a binario\obj\Debug\net7.0\De entero a binario.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Programas de CS\De entero a binario\obj\Debug\net7.0\De entero a binario.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Programas de CS\De entero a binario\obj\Debug\net7.0\De entero a binario.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Programas de CS\De entero a binario\obj\Debug\net7.0\De entero a binario.csproj.CopyComplete
+C:\Users\IngCa\Desktop\Programas de CS\De entero a binario\obj\Debug\net7.0\De entero a binario.dll
+C:\Users\IngCa\Desktop\Programas de CS\De entero a binario\obj\Debug\net7.0\refint\De entero a binario.dll
+C:\Users\IngCa\Desktop\Programas de CS\De entero a binario\obj\Debug\net7.0\De entero a binario.pdb
+C:\Users\IngCa\Desktop\Programas de CS\De entero a binario\obj\Debug\net7.0\De entero a binario.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Programas de CS\De entero a binario\obj\Debug\net7.0\ref\De entero a binario.dll
+C:\Users\IngCa\Desktop\Programacion C#\De entero a binario\bin\Debug\net7.0\De entero a binario.exe
+C:\Users\IngCa\Desktop\Programacion C#\De entero a binario\bin\Debug\net7.0\De entero a binario.deps.json
+C:\Users\IngCa\Desktop\Programacion C#\De entero a binario\bin\Debug\net7.0\De entero a binario.runtimeconfig.json
+C:\Users\IngCa\Desktop\Programacion C#\De entero a binario\bin\Debug\net7.0\De entero a binario.dll
+C:\Users\IngCa\Desktop\Programacion C#\De entero a binario\bin\Debug\net7.0\De entero a binario.pdb
+C:\Users\IngCa\Desktop\Programacion C#\De entero a binario\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\IngCa\Desktop\Programacion C#\De entero a binario\obj\Debug\net7.0\De entero a binario.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Programacion C#\De entero a binario\obj\Debug\net7.0\De entero a binario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Programacion C#\De entero a binario\obj\Debug\net7.0\De entero a binario.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Programacion C#\De entero a binario\obj\Debug\net7.0\De entero a binario.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Programacion C#\De entero a binario\obj\Debug\net7.0\De entero a binario.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Programacion C#\De entero a binario\obj\Debug\net7.0\De entero a binario.csproj.CopyComplete
+C:\Users\IngCa\Desktop\Programacion C#\De entero a binario\obj\Debug\net7.0\De entero a binario.dll
+C:\Users\IngCa\Desktop\Programacion C#\De entero a binario\obj\Debug\net7.0\refint\De entero a binario.dll
+C:\Users\IngCa\Desktop\Programacion C#\De entero a binario\obj\Debug\net7.0\De entero a binario.pdb
+C:\Users\IngCa\Desktop\Programacion C#\De entero a binario\obj\Debug\net7.0\De entero a binario.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Programacion C#\De entero a binario\obj\Debug\net7.0\ref\De entero a binario.dll
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\De entero a binario\bin\Debug\net7.0\De entero a binario.exe
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\De entero a binario\bin\Debug\net7.0\De entero a binario.deps.json
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\De entero a binario\bin\Debug\net7.0\De entero a binario.runtimeconfig.json
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\De entero a binario\bin\Debug\net7.0\De entero a binario.dll
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\De entero a binario\bin\Debug\net7.0\De entero a binario.pdb
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\De entero a binario\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\De entero a binario\obj\Debug\net7.0\De entero a binario.csproj.AssemblyReference.cache
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\De entero a binario\obj\Debug\net7.0\De entero a binario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\De entero a binario\obj\Debug\net7.0\De entero a binario.AssemblyInfoInputs.cache
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\De entero a binario\obj\Debug\net7.0\De entero a binario.AssemblyInfo.cs
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\De entero a binario\obj\Debug\net7.0\De entero a binario.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\De entero a binario\obj\Debug\net7.0\De entero a binario.csproj.CopyComplete
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\De entero a binario\obj\Debug\net7.0\De entero a binario.dll
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\De entero a binario\obj\Debug\net7.0\refint\De entero a binario.dll
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\De entero a binario\obj\Debug\net7.0\De entero a binario.pdb
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\De entero a binario\obj\Debug\net7.0\De entero a binario.genruntimeconfig.cache
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\De entero a binario\obj\Debug\net7.0\ref\De entero a binario.dll

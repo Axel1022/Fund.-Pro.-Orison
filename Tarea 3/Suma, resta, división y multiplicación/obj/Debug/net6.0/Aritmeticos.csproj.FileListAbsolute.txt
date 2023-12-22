@@ -1,0 +1,30 @@
+C:\Users\IngCa\Desktop\Aritmeticos\bin\Debug\net6.0\Aritmeticos.exe
+C:\Users\IngCa\Desktop\Aritmeticos\bin\Debug\net6.0\Aritmeticos.deps.json
+C:\Users\IngCa\Desktop\Aritmeticos\bin\Debug\net6.0\Aritmeticos.runtimeconfig.json
+C:\Users\IngCa\Desktop\Aritmeticos\bin\Debug\net6.0\Aritmeticos.dll
+C:\Users\IngCa\Desktop\Aritmeticos\bin\Debug\net6.0\Aritmeticos.pdb
+C:\Users\IngCa\Desktop\Aritmeticos\obj\Debug\net6.0\Aritmeticos.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Aritmeticos\obj\Debug\net6.0\Aritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Aritmeticos\obj\Debug\net6.0\Aritmeticos.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Aritmeticos\obj\Debug\net6.0\Aritmeticos.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Aritmeticos\obj\Debug\net6.0\Aritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Aritmeticos\obj\Debug\net6.0\Aritmeticos.dll
+C:\Users\IngCa\Desktop\Aritmeticos\obj\Debug\net6.0\refint\Aritmeticos.dll
+C:\Users\IngCa\Desktop\Aritmeticos\obj\Debug\net6.0\Aritmeticos.pdb
+C:\Users\IngCa\Desktop\Aritmeticos\obj\Debug\net6.0\Aritmeticos.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Aritmeticos\obj\Debug\net6.0\ref\Aritmeticos.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 3\ Suma, resta, división y multiplicación\bin\Debug\net6.0\Aritmeticos.exe
+C:\Users\IngCa\Desktop\Orison\Tarea 3\ Suma, resta, división y multiplicación\bin\Debug\net6.0\Aritmeticos.deps.json
+C:\Users\IngCa\Desktop\Orison\Tarea 3\ Suma, resta, división y multiplicación\bin\Debug\net6.0\Aritmeticos.runtimeconfig.json
+C:\Users\IngCa\Desktop\Orison\Tarea 3\ Suma, resta, división y multiplicación\bin\Debug\net6.0\Aritmeticos.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 3\ Suma, resta, división y multiplicación\bin\Debug\net6.0\Aritmeticos.pdb
+C:\Users\IngCa\Desktop\Orison\Tarea 3\ Suma, resta, división y multiplicación\obj\Debug\net6.0\Aritmeticos.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 3\ Suma, resta, división y multiplicación\obj\Debug\net6.0\Aritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Orison\Tarea 3\ Suma, resta, división y multiplicación\obj\Debug\net6.0\Aritmeticos.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 3\ Suma, resta, división y multiplicación\obj\Debug\net6.0\Aritmeticos.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Orison\Tarea 3\ Suma, resta, división y multiplicación\obj\Debug\net6.0\Aritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 3\ Suma, resta, división y multiplicación\obj\Debug\net6.0\Aritmeticos.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 3\ Suma, resta, división y multiplicación\obj\Debug\net6.0\refint\Aritmeticos.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 3\ Suma, resta, división y multiplicación\obj\Debug\net6.0\Aritmeticos.pdb
+C:\Users\IngCa\Desktop\Orison\Tarea 3\ Suma, resta, división y multiplicación\obj\Debug\net6.0\Aritmeticos.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 3\ Suma, resta, división y multiplicación\obj\Debug\net6.0\ref\Aritmeticos.dll

@@ -1,0 +1,30 @@
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Longitud\bin\Debug\net7.0\Longitud.exe
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Longitud\bin\Debug\net7.0\Longitud.deps.json
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Longitud\bin\Debug\net7.0\Longitud.runtimeconfig.json
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Longitud\bin\Debug\net7.0\Longitud.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Longitud\bin\Debug\net7.0\Longitud.pdb
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Longitud\obj\Debug\net7.0\Longitud.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Longitud\obj\Debug\net7.0\Longitud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Longitud\obj\Debug\net7.0\Longitud.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Longitud\obj\Debug\net7.0\Longitud.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Longitud\obj\Debug\net7.0\Longitud.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Longitud\obj\Debug\net7.0\Longitud.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Longitud\obj\Debug\net7.0\refint\Longitud.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Longitud\obj\Debug\net7.0\Longitud.pdb
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Longitud\obj\Debug\net7.0\Longitud.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Longitud\obj\Debug\net7.0\ref\Longitud.dll
+C:\Users\IngCa\Desktop\Programacion C#\Longitud\bin\Debug\net7.0\Longitud.exe
+C:\Users\IngCa\Desktop\Programacion C#\Longitud\bin\Debug\net7.0\Longitud.deps.json
+C:\Users\IngCa\Desktop\Programacion C#\Longitud\bin\Debug\net7.0\Longitud.runtimeconfig.json
+C:\Users\IngCa\Desktop\Programacion C#\Longitud\bin\Debug\net7.0\Longitud.dll
+C:\Users\IngCa\Desktop\Programacion C#\Longitud\bin\Debug\net7.0\Longitud.pdb
+C:\Users\IngCa\Desktop\Programacion C#\Longitud\obj\Debug\net7.0\Longitud.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Programacion C#\Longitud\obj\Debug\net7.0\Longitud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Programacion C#\Longitud\obj\Debug\net7.0\Longitud.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Programacion C#\Longitud\obj\Debug\net7.0\Longitud.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Programacion C#\Longitud\obj\Debug\net7.0\Longitud.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Programacion C#\Longitud\obj\Debug\net7.0\Longitud.dll
+C:\Users\IngCa\Desktop\Programacion C#\Longitud\obj\Debug\net7.0\refint\Longitud.dll
+C:\Users\IngCa\Desktop\Programacion C#\Longitud\obj\Debug\net7.0\Longitud.pdb
+C:\Users\IngCa\Desktop\Programacion C#\Longitud\obj\Debug\net7.0\Longitud.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Programacion C#\Longitud\obj\Debug\net7.0\ref\Longitud.dll

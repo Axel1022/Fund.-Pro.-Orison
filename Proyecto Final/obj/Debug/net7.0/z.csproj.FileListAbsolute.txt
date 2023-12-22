@@ -1,0 +1,74 @@
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Proyecto Final\bin\Debug\net7.0\z.exe
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Proyecto Final\bin\Debug\net7.0\z.deps.json
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Proyecto Final\bin\Debug\net7.0\z.runtimeconfig.json
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Proyecto Final\bin\Debug\net7.0\z.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Proyecto Final\bin\Debug\net7.0\z.pdb
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Proyecto Final\obj\Debug\net7.0\z.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Proyecto Final\obj\Debug\net7.0\z.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Proyecto Final\obj\Debug\net7.0\z.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Proyecto Final\obj\Debug\net7.0\z.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Proyecto Final\obj\Debug\net7.0\z.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Proyecto Final\obj\Debug\net7.0\z.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Proyecto Final\obj\Debug\net7.0\refint\z.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Proyecto Final\obj\Debug\net7.0\z.pdb
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Proyecto Final\obj\Debug\net7.0\z.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Proyecto Final\obj\Debug\net7.0\ref\z.dll
+C:\Users\IngCa\Desktop\Programas de CS\Proyecto Final\bin\Debug\net7.0\z.exe
+C:\Users\IngCa\Desktop\Programas de CS\Proyecto Final\bin\Debug\net7.0\z.deps.json
+C:\Users\IngCa\Desktop\Programas de CS\Proyecto Final\bin\Debug\net7.0\z.runtimeconfig.json
+C:\Users\IngCa\Desktop\Programas de CS\Proyecto Final\bin\Debug\net7.0\z.dll
+C:\Users\IngCa\Desktop\Programas de CS\Proyecto Final\bin\Debug\net7.0\z.pdb
+C:\Users\IngCa\Desktop\Programas de CS\Proyecto Final\obj\Debug\net7.0\z.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Programas de CS\Proyecto Final\obj\Debug\net7.0\z.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Programas de CS\Proyecto Final\obj\Debug\net7.0\z.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Programas de CS\Proyecto Final\obj\Debug\net7.0\z.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Programas de CS\Proyecto Final\obj\Debug\net7.0\z.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Programas de CS\Proyecto Final\obj\Debug\net7.0\z.dll
+C:\Users\IngCa\Desktop\Programas de CS\Proyecto Final\obj\Debug\net7.0\refint\z.dll
+C:\Users\IngCa\Desktop\Programas de CS\Proyecto Final\obj\Debug\net7.0\z.pdb
+C:\Users\IngCa\Desktop\Programas de CS\Proyecto Final\obj\Debug\net7.0\z.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Programas de CS\Proyecto Final\obj\Debug\net7.0\ref\z.dll
+C:\Users\IngCa\Desktop\Programacion C#\Proyecto Final\bin\Debug\net7.0\z.exe
+C:\Users\IngCa\Desktop\Programacion C#\Proyecto Final\bin\Debug\net7.0\z.deps.json
+C:\Users\IngCa\Desktop\Programacion C#\Proyecto Final\bin\Debug\net7.0\z.runtimeconfig.json
+C:\Users\IngCa\Desktop\Programacion C#\Proyecto Final\bin\Debug\net7.0\z.dll
+C:\Users\IngCa\Desktop\Programacion C#\Proyecto Final\bin\Debug\net7.0\z.pdb
+C:\Users\IngCa\Desktop\Programacion C#\Proyecto Final\obj\Debug\net7.0\z.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Programacion C#\Proyecto Final\obj\Debug\net7.0\z.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Programacion C#\Proyecto Final\obj\Debug\net7.0\z.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Programacion C#\Proyecto Final\obj\Debug\net7.0\z.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Programacion C#\Proyecto Final\obj\Debug\net7.0\z.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Programacion C#\Proyecto Final\obj\Debug\net7.0\z.dll
+C:\Users\IngCa\Desktop\Programacion C#\Proyecto Final\obj\Debug\net7.0\refint\z.dll
+C:\Users\IngCa\Desktop\Programacion C#\Proyecto Final\obj\Debug\net7.0\z.pdb
+C:\Users\IngCa\Desktop\Programacion C#\Proyecto Final\obj\Debug\net7.0\z.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Programacion C#\Proyecto Final\obj\Debug\net7.0\ref\z.dll
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Proyecto Final\bin\Debug\net7.0\z.exe
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Proyecto Final\bin\Debug\net7.0\z.deps.json
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Proyecto Final\bin\Debug\net7.0\z.runtimeconfig.json
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Proyecto Final\bin\Debug\net7.0\z.dll
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Proyecto Final\bin\Debug\net7.0\z.pdb
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Proyecto Final\obj\Debug\net7.0\z.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Proyecto Final\obj\Debug\net7.0\z.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Proyecto Final\obj\Debug\net7.0\z.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Proyecto Final\obj\Debug\net7.0\z.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Proyecto Final\obj\Debug\net7.0\z.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Proyecto Final\obj\Debug\net7.0\z.dll
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Proyecto Final\obj\Debug\net7.0\refint\z.dll
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Proyecto Final\obj\Debug\net7.0\z.pdb
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Proyecto Final\obj\Debug\net7.0\z.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Proyecto Final\obj\Debug\net7.0\ref\z.dll
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Proyecto Final\bin\Debug\net7.0\z.exe
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Proyecto Final\bin\Debug\net7.0\z.deps.json
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Proyecto Final\bin\Debug\net7.0\z.runtimeconfig.json
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Proyecto Final\bin\Debug\net7.0\z.dll
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Proyecto Final\bin\Debug\net7.0\z.pdb
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Proyecto Final\obj\Debug\net7.0\z.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Proyecto Final\obj\Debug\net7.0\z.AssemblyInfoInputs.cache
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Proyecto Final\obj\Debug\net7.0\z.AssemblyInfo.cs
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Proyecto Final\obj\Debug\net7.0\z.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Proyecto Final\obj\Debug\net7.0\z.dll
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Proyecto Final\obj\Debug\net7.0\refint\z.dll
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Proyecto Final\obj\Debug\net7.0\z.pdb
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Proyecto Final\obj\Debug\net7.0\z.genruntimeconfig.cache
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Proyecto Final\obj\Debug\net7.0\ref\z.dll

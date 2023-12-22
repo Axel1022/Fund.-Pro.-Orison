@@ -1,0 +1,45 @@
+C:\Users\IngCa\Desktop\Prueba\bin\Debug\net6.0\Prueba.exe
+C:\Users\IngCa\Desktop\Prueba\bin\Debug\net6.0\Prueba.deps.json
+C:\Users\IngCa\Desktop\Prueba\bin\Debug\net6.0\Prueba.runtimeconfig.json
+C:\Users\IngCa\Desktop\Prueba\bin\Debug\net6.0\Prueba.dll
+C:\Users\IngCa\Desktop\Prueba\bin\Debug\net6.0\Prueba.pdb
+C:\Users\IngCa\Desktop\Prueba\obj\Debug\net6.0\Prueba.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Prueba\obj\Debug\net6.0\Prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Prueba\obj\Debug\net6.0\Prueba.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Prueba\obj\Debug\net6.0\Prueba.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Prueba\obj\Debug\net6.0\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Prueba\obj\Debug\net6.0\Prueba.dll
+C:\Users\IngCa\Desktop\Prueba\obj\Debug\net6.0\refint\Prueba.dll
+C:\Users\IngCa\Desktop\Prueba\obj\Debug\net6.0\Prueba.pdb
+C:\Users\IngCa\Desktop\Prueba\obj\Debug\net6.0\Prueba.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Prueba\obj\Debug\net6.0\ref\Prueba.dll
+C:\Users\IngCa\Desktop\Orison\Parte 4.1\bin\Debug\net6.0\Prueba.exe
+C:\Users\IngCa\Desktop\Orison\Parte 4.1\bin\Debug\net6.0\Prueba.deps.json
+C:\Users\IngCa\Desktop\Orison\Parte 4.1\bin\Debug\net6.0\Prueba.runtimeconfig.json
+C:\Users\IngCa\Desktop\Orison\Parte 4.1\bin\Debug\net6.0\Prueba.dll
+C:\Users\IngCa\Desktop\Orison\Parte 4.1\bin\Debug\net6.0\Prueba.pdb
+C:\Users\IngCa\Desktop\Orison\Parte 4.1\obj\Debug\net6.0\Prueba.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Orison\Parte 4.1\obj\Debug\net6.0\Prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Orison\Parte 4.1\obj\Debug\net6.0\Prueba.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Orison\Parte 4.1\obj\Debug\net6.0\Prueba.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Orison\Parte 4.1\obj\Debug\net6.0\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Orison\Parte 4.1\obj\Debug\net6.0\Prueba.dll
+C:\Users\IngCa\Desktop\Orison\Parte 4.1\obj\Debug\net6.0\refint\Prueba.dll
+C:\Users\IngCa\Desktop\Orison\Parte 4.1\obj\Debug\net6.0\Prueba.pdb
+C:\Users\IngCa\Desktop\Orison\Parte 4.1\obj\Debug\net6.0\Prueba.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Orison\Parte 4.1\obj\Debug\net6.0\ref\Prueba.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Parte 4.1\bin\Debug\net6.0\Prueba.exe
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Parte 4.1\bin\Debug\net6.0\Prueba.deps.json
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Parte 4.1\bin\Debug\net6.0\Prueba.runtimeconfig.json
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Parte 4.1\bin\Debug\net6.0\Prueba.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Parte 4.1\bin\Debug\net6.0\Prueba.pdb
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Parte 4.1\obj\Debug\net6.0\Prueba.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Parte 4.1\obj\Debug\net6.0\Prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Parte 4.1\obj\Debug\net6.0\Prueba.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Parte 4.1\obj\Debug\net6.0\Prueba.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Parte 4.1\obj\Debug\net6.0\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Parte 4.1\obj\Debug\net6.0\Prueba.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Parte 4.1\obj\Debug\net6.0\refint\Prueba.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Parte 4.1\obj\Debug\net6.0\Prueba.pdb
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Parte 4.1\obj\Debug\net6.0\Prueba.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Parte 4.1\obj\Debug\net6.0\ref\Prueba.dll

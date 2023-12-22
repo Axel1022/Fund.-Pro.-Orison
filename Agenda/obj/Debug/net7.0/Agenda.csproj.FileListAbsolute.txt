@@ -1,0 +1,30 @@
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Agenda\bin\Debug\net7.0\Agenda.exe
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Agenda\bin\Debug\net7.0\Agenda.deps.json
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Agenda\bin\Debug\net7.0\Agenda.runtimeconfig.json
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Agenda\bin\Debug\net7.0\Agenda.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Agenda\bin\Debug\net7.0\Agenda.pdb
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Agenda\obj\Debug\net7.0\Agenda.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Agenda\obj\Debug\net7.0\Agenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Agenda\obj\Debug\net7.0\Agenda.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Agenda\obj\Debug\net7.0\Agenda.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Agenda\obj\Debug\net7.0\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Agenda\obj\Debug\net7.0\Agenda.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Agenda\obj\Debug\net7.0\refint\Agenda.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Agenda\obj\Debug\net7.0\Agenda.pdb
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Agenda\obj\Debug\net7.0\Agenda.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Agenda\obj\Debug\net7.0\ref\Agenda.dll
+C:\Users\IngCa\Desktop\Programas de CS\Agenda\bin\Debug\net7.0\Agenda.exe
+C:\Users\IngCa\Desktop\Programas de CS\Agenda\bin\Debug\net7.0\Agenda.deps.json
+C:\Users\IngCa\Desktop\Programas de CS\Agenda\bin\Debug\net7.0\Agenda.runtimeconfig.json
+C:\Users\IngCa\Desktop\Programas de CS\Agenda\bin\Debug\net7.0\Agenda.dll
+C:\Users\IngCa\Desktop\Programas de CS\Agenda\bin\Debug\net7.0\Agenda.pdb
+C:\Users\IngCa\Desktop\Programas de CS\Agenda\obj\Debug\net7.0\Agenda.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Programas de CS\Agenda\obj\Debug\net7.0\Agenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Programas de CS\Agenda\obj\Debug\net7.0\Agenda.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Programas de CS\Agenda\obj\Debug\net7.0\Agenda.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Programas de CS\Agenda\obj\Debug\net7.0\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Programas de CS\Agenda\obj\Debug\net7.0\Agenda.dll
+C:\Users\IngCa\Desktop\Programas de CS\Agenda\obj\Debug\net7.0\refint\Agenda.dll
+C:\Users\IngCa\Desktop\Programas de CS\Agenda\obj\Debug\net7.0\Agenda.pdb
+C:\Users\IngCa\Desktop\Programas de CS\Agenda\obj\Debug\net7.0\Agenda.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Programas de CS\Agenda\obj\Debug\net7.0\ref\Agenda.dll

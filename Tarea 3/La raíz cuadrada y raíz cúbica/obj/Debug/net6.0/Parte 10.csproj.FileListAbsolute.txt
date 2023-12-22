@@ -1,0 +1,30 @@
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Parte 10\bin\Debug\net6.0\Parte 10.exe
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Parte 10\bin\Debug\net6.0\Parte 10.deps.json
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Parte 10\bin\Debug\net6.0\Parte 10.runtimeconfig.json
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Parte 10\bin\Debug\net6.0\Parte 10.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Parte 10\bin\Debug\net6.0\Parte 10.pdb
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Parte 10\obj\Debug\net6.0\Parte 10.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Parte 10\obj\Debug\net6.0\Parte 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Parte 10\obj\Debug\net6.0\Parte 10.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Parte 10\obj\Debug\net6.0\Parte 10.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Parte 10\obj\Debug\net6.0\Parte 10.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Parte 10\obj\Debug\net6.0\Parte 10.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Parte 10\obj\Debug\net6.0\refint\Parte 10.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Parte 10\obj\Debug\net6.0\Parte 10.pdb
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Parte 10\obj\Debug\net6.0\Parte 10.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Parte 10\obj\Debug\net6.0\ref\Parte 10.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 3\La raíz cuadrada y raíz cúbica\bin\Debug\net6.0\Parte 10.exe
+C:\Users\IngCa\Desktop\Orison\Tarea 3\La raíz cuadrada y raíz cúbica\bin\Debug\net6.0\Parte 10.deps.json
+C:\Users\IngCa\Desktop\Orison\Tarea 3\La raíz cuadrada y raíz cúbica\bin\Debug\net6.0\Parte 10.runtimeconfig.json
+C:\Users\IngCa\Desktop\Orison\Tarea 3\La raíz cuadrada y raíz cúbica\bin\Debug\net6.0\Parte 10.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 3\La raíz cuadrada y raíz cúbica\bin\Debug\net6.0\Parte 10.pdb
+C:\Users\IngCa\Desktop\Orison\Tarea 3\La raíz cuadrada y raíz cúbica\obj\Debug\net6.0\Parte 10.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 3\La raíz cuadrada y raíz cúbica\obj\Debug\net6.0\Parte 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Orison\Tarea 3\La raíz cuadrada y raíz cúbica\obj\Debug\net6.0\Parte 10.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 3\La raíz cuadrada y raíz cúbica\obj\Debug\net6.0\Parte 10.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Orison\Tarea 3\La raíz cuadrada y raíz cúbica\obj\Debug\net6.0\Parte 10.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 3\La raíz cuadrada y raíz cúbica\obj\Debug\net6.0\Parte 10.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 3\La raíz cuadrada y raíz cúbica\obj\Debug\net6.0\refint\Parte 10.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 3\La raíz cuadrada y raíz cúbica\obj\Debug\net6.0\Parte 10.pdb
+C:\Users\IngCa\Desktop\Orison\Tarea 3\La raíz cuadrada y raíz cúbica\obj\Debug\net6.0\Parte 10.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 3\La raíz cuadrada y raíz cúbica\obj\Debug\net6.0\ref\Parte 10.dll

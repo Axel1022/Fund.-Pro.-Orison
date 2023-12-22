@@ -1,0 +1,30 @@
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Parte 9\bin\Debug\net6.0\Parte 9.exe
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Parte 9\bin\Debug\net6.0\Parte 9.deps.json
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Parte 9\bin\Debug\net6.0\Parte 9.runtimeconfig.json
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Parte 9\bin\Debug\net6.0\Parte 9.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Parte 9\bin\Debug\net6.0\Parte 9.pdb
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Parte 9\obj\Debug\net6.0\Parte 9.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Parte 9\obj\Debug\net6.0\Parte 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Parte 9\obj\Debug\net6.0\Parte 9.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Parte 9\obj\Debug\net6.0\Parte 9.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Parte 9\obj\Debug\net6.0\Parte 9.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Parte 9\obj\Debug\net6.0\Parte 9.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Parte 9\obj\Debug\net6.0\refint\Parte 9.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Parte 9\obj\Debug\net6.0\Parte 9.pdb
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Parte 9\obj\Debug\net6.0\Parte 9.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Parte 9\obj\Debug\net6.0\ref\Parte 9.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Distancia de dos números\bin\Debug\net6.0\Parte 9.exe
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Distancia de dos números\bin\Debug\net6.0\Parte 9.deps.json
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Distancia de dos números\bin\Debug\net6.0\Parte 9.runtimeconfig.json
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Distancia de dos números\bin\Debug\net6.0\Parte 9.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Distancia de dos números\bin\Debug\net6.0\Parte 9.pdb
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Distancia de dos números\obj\Debug\net6.0\Parte 9.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Distancia de dos números\obj\Debug\net6.0\Parte 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Distancia de dos números\obj\Debug\net6.0\Parte 9.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Distancia de dos números\obj\Debug\net6.0\Parte 9.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Distancia de dos números\obj\Debug\net6.0\Parte 9.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Distancia de dos números\obj\Debug\net6.0\Parte 9.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Distancia de dos números\obj\Debug\net6.0\refint\Parte 9.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Distancia de dos números\obj\Debug\net6.0\Parte 9.pdb
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Distancia de dos números\obj\Debug\net6.0\Parte 9.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 3\Distancia de dos números\obj\Debug\net6.0\ref\Parte 9.dll

@@ -1,0 +1,14 @@
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Aleatorio\bin\Debug\net7.0\Aleatorio.deps.json
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Aleatorio\bin\Debug\net7.0\Aleatorio.runtimeconfig.json
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Aleatorio\bin\Debug\net7.0\Aleatorio.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Aleatorio\bin\Debug\net7.0\Aleatorio.pdb
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Aleatorio\obj\Debug\net7.0\Aleatorio.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Aleatorio\obj\Debug\net7.0\Aleatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Aleatorio\obj\Debug\net7.0\Aleatorio.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Aleatorio\obj\Debug\net7.0\Aleatorio.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Aleatorio\obj\Debug\net7.0\Aleatorio.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Aleatorio\obj\Debug\net7.0\Aleatorio.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Aleatorio\obj\Debug\net7.0\refint\Aleatorio.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Aleatorio\obj\Debug\net7.0\Aleatorio.pdb
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Aleatorio\obj\Debug\net7.0\Aleatorio.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Aleatorio\obj\Debug\net7.0\ref\Aleatorio.dll

@@ -1,0 +1,27 @@
+
+
+            <html>
+                <head>
+                    <tittle>Listado de Estudiantes del Orbi en bajo presupuesto</tittle>
+                </head>
+                <body>
+                   <div class='container'>
+                        <table class='table'>
+                        <tr>
+                            <th>Matricula<th>
+                            <th>Nombre<th>
+                            <th>Apellido<th>
+                            <th>Edad<th>
+                            <th>Nota 1<th>
+                            <th>Nota 2<th>
+                            <th>Promedio<th>
+                            <th>Litera</th>
+                        </tr>
+
+                    </tablet>
+                </div>
+            </body>
+
+        </html>
+
+    

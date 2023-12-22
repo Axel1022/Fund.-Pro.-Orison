@@ -1,0 +1,45 @@
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Frase o nombre\Frase o nombre\bin\Debug\net6.0\Frase o nombre.exe
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Frase o nombre\Frase o nombre\bin\Debug\net6.0\Frase o nombre.deps.json
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Frase o nombre\Frase o nombre\bin\Debug\net6.0\Frase o nombre.runtimeconfig.json
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Frase o nombre\Frase o nombre\bin\Debug\net6.0\Frase o nombre.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Frase o nombre\Frase o nombre\bin\Debug\net6.0\Frase o nombre.pdb
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Frase o nombre\Frase o nombre\obj\Debug\net6.0\Frase o nombre.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Frase o nombre\Frase o nombre\obj\Debug\net6.0\Frase o nombre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Frase o nombre\Frase o nombre\obj\Debug\net6.0\Frase o nombre.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Frase o nombre\Frase o nombre\obj\Debug\net6.0\Frase o nombre.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Frase o nombre\Frase o nombre\obj\Debug\net6.0\Frase o nombre.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Frase o nombre\Frase o nombre\obj\Debug\net6.0\Frase o nombre.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Frase o nombre\Frase o nombre\obj\Debug\net6.0\refint\Frase o nombre.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Frase o nombre\Frase o nombre\obj\Debug\net6.0\Frase o nombre.pdb
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Frase o nombre\Frase o nombre\obj\Debug\net6.0\Frase o nombre.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Frase o nombre\Frase o nombre\obj\Debug\net6.0\ref\Frase o nombre.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Programas para la competencias\Frase o nombre\Frase o nombre\bin\Debug\net6.0\Frase o nombre.exe
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Programas para la competencias\Frase o nombre\Frase o nombre\bin\Debug\net6.0\Frase o nombre.deps.json
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Programas para la competencias\Frase o nombre\Frase o nombre\bin\Debug\net6.0\Frase o nombre.runtimeconfig.json
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Programas para la competencias\Frase o nombre\Frase o nombre\bin\Debug\net6.0\Frase o nombre.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Programas para la competencias\Frase o nombre\Frase o nombre\bin\Debug\net6.0\Frase o nombre.pdb
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Programas para la competencias\Frase o nombre\Frase o nombre\obj\Debug\net6.0\Frase o nombre.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Programas para la competencias\Frase o nombre\Frase o nombre\obj\Debug\net6.0\Frase o nombre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Programas para la competencias\Frase o nombre\Frase o nombre\obj\Debug\net6.0\Frase o nombre.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Programas para la competencias\Frase o nombre\Frase o nombre\obj\Debug\net6.0\Frase o nombre.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Programas para la competencias\Frase o nombre\Frase o nombre\obj\Debug\net6.0\Frase o nombre.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Programas para la competencias\Frase o nombre\Frase o nombre\obj\Debug\net6.0\Frase o nombre.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Programas para la competencias\Frase o nombre\Frase o nombre\obj\Debug\net6.0\refint\Frase o nombre.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Programas para la competencias\Frase o nombre\Frase o nombre\obj\Debug\net6.0\Frase o nombre.pdb
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Programas para la competencias\Frase o nombre\Frase o nombre\obj\Debug\net6.0\Frase o nombre.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Programas para la competencias\Frase o nombre\Frase o nombre\obj\Debug\net6.0\ref\Frase o nombre.dll
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Programas para la competencias\Frase o nombre\Frase o nombre\bin\Debug\net6.0\Frase o nombre.exe
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Programas para la competencias\Frase o nombre\Frase o nombre\bin\Debug\net6.0\Frase o nombre.deps.json
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Programas para la competencias\Frase o nombre\Frase o nombre\bin\Debug\net6.0\Frase o nombre.runtimeconfig.json
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Programas para la competencias\Frase o nombre\Frase o nombre\bin\Debug\net6.0\Frase o nombre.dll
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Programas para la competencias\Frase o nombre\Frase o nombre\bin\Debug\net6.0\Frase o nombre.pdb
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Programas para la competencias\Frase o nombre\Frase o nombre\obj\Debug\net6.0\Frase o nombre.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Programas para la competencias\Frase o nombre\Frase o nombre\obj\Debug\net6.0\Frase o nombre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Programas para la competencias\Frase o nombre\Frase o nombre\obj\Debug\net6.0\Frase o nombre.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Programas para la competencias\Frase o nombre\Frase o nombre\obj\Debug\net6.0\Frase o nombre.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Programas para la competencias\Frase o nombre\Frase o nombre\obj\Debug\net6.0\Frase o nombre.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Programas para la competencias\Frase o nombre\Frase o nombre\obj\Debug\net6.0\Frase o nombre.dll
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Programas para la competencias\Frase o nombre\Frase o nombre\obj\Debug\net6.0\refint\Frase o nombre.dll
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Programas para la competencias\Frase o nombre\Frase o nombre\obj\Debug\net6.0\Frase o nombre.pdb
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Programas para la competencias\Frase o nombre\Frase o nombre\obj\Debug\net6.0\Frase o nombre.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Programas para la competencias\Frase o nombre\Frase o nombre\obj\Debug\net6.0\ref\Frase o nombre.dll

@@ -1,0 +1,30 @@
+C:\Users\IngCa\Desktop\Ni idea\bin\Debug\net6.0\Ni idea.exe
+C:\Users\IngCa\Desktop\Ni idea\bin\Debug\net6.0\Ni idea.deps.json
+C:\Users\IngCa\Desktop\Ni idea\bin\Debug\net6.0\Ni idea.runtimeconfig.json
+C:\Users\IngCa\Desktop\Ni idea\bin\Debug\net6.0\Ni idea.dll
+C:\Users\IngCa\Desktop\Ni idea\bin\Debug\net6.0\Ni idea.pdb
+C:\Users\IngCa\Desktop\Ni idea\obj\Debug\net6.0\Ni idea.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Ni idea\obj\Debug\net6.0\Ni idea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Ni idea\obj\Debug\net6.0\Ni idea.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Ni idea\obj\Debug\net6.0\Ni idea.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Ni idea\obj\Debug\net6.0\Ni idea.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Ni idea\obj\Debug\net6.0\Ni idea.dll
+C:\Users\IngCa\Desktop\Ni idea\obj\Debug\net6.0\refint\Ni idea.dll
+C:\Users\IngCa\Desktop\Ni idea\obj\Debug\net6.0\Ni idea.pdb
+C:\Users\IngCa\Desktop\Ni idea\obj\Debug\net6.0\Ni idea.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Ni idea\obj\Debug\net6.0\ref\Ni idea.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Ni idea\bin\Debug\net6.0\Ni idea.exe
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Ni idea\bin\Debug\net6.0\Ni idea.deps.json
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Ni idea\bin\Debug\net6.0\Ni idea.runtimeconfig.json
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Ni idea\bin\Debug\net6.0\Ni idea.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Ni idea\bin\Debug\net6.0\Ni idea.pdb
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Ni idea\obj\Debug\net6.0\Ni idea.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Ni idea\obj\Debug\net6.0\Ni idea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Ni idea\obj\Debug\net6.0\Ni idea.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Ni idea\obj\Debug\net6.0\Ni idea.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Ni idea\obj\Debug\net6.0\Ni idea.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Ni idea\obj\Debug\net6.0\Ni idea.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Ni idea\obj\Debug\net6.0\refint\Ni idea.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Ni idea\obj\Debug\net6.0\Ni idea.pdb
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Ni idea\obj\Debug\net6.0\Ni idea.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 2\Ni idea\obj\Debug\net6.0\ref\Ni idea.dll

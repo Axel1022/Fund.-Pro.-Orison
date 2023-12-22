@@ -1,0 +1,30 @@
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Programa random\random\bin\Debug\net6.0\random.exe
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Programa random\random\bin\Debug\net6.0\random.deps.json
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Programa random\random\bin\Debug\net6.0\random.runtimeconfig.json
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Programa random\random\bin\Debug\net6.0\random.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Programa random\random\bin\Debug\net6.0\random.pdb
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Programa random\random\obj\Debug\net6.0\random.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Programa random\random\obj\Debug\net6.0\random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Programa random\random\obj\Debug\net6.0\random.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Programa random\random\obj\Debug\net6.0\random.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Programa random\random\obj\Debug\net6.0\random.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Programa random\random\obj\Debug\net6.0\random.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Programa random\random\obj\Debug\net6.0\refint\random.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Programa random\random\obj\Debug\net6.0\random.pdb
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Programa random\random\obj\Debug\net6.0\random.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Competencia\Programa random\random\obj\Debug\net6.0\ref\random.dll
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Competencia\Programa random\random\bin\Debug\net6.0\random.exe
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Competencia\Programa random\random\bin\Debug\net6.0\random.deps.json
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Competencia\Programa random\random\bin\Debug\net6.0\random.runtimeconfig.json
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Competencia\Programa random\random\bin\Debug\net6.0\random.dll
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Competencia\Programa random\random\bin\Debug\net6.0\random.pdb
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Competencia\Programa random\random\obj\Debug\net6.0\random.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Competencia\Programa random\random\obj\Debug\net6.0\random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Competencia\Programa random\random\obj\Debug\net6.0\random.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Competencia\Programa random\random\obj\Debug\net6.0\random.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Competencia\Programa random\random\obj\Debug\net6.0\random.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Competencia\Programa random\random\obj\Debug\net6.0\random.dll
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Competencia\Programa random\random\obj\Debug\net6.0\refint\random.dll
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Competencia\Programa random\random\obj\Debug\net6.0\random.pdb
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Competencia\Programa random\random\obj\Debug\net6.0\random.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Competencia\Programa random\random\obj\Debug\net6.0\ref\random.dll

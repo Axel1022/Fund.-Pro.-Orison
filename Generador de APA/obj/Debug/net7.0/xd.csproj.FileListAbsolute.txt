@@ -1,0 +1,28 @@
+C:\Users\IngCa\OneDrive\Escritorio\xd\bin\Debug\net7.0\xd.exe
+C:\Users\IngCa\OneDrive\Escritorio\xd\bin\Debug\net7.0\xd.deps.json
+C:\Users\IngCa\OneDrive\Escritorio\xd\bin\Debug\net7.0\xd.runtimeconfig.json
+C:\Users\IngCa\OneDrive\Escritorio\xd\bin\Debug\net7.0\xd.dll
+C:\Users\IngCa\OneDrive\Escritorio\xd\bin\Debug\net7.0\xd.pdb
+C:\Users\IngCa\OneDrive\Escritorio\xd\obj\Debug\net7.0\xd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\OneDrive\Escritorio\xd\obj\Debug\net7.0\xd.AssemblyInfoInputs.cache
+C:\Users\IngCa\OneDrive\Escritorio\xd\obj\Debug\net7.0\xd.AssemblyInfo.cs
+C:\Users\IngCa\OneDrive\Escritorio\xd\obj\Debug\net7.0\xd.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\OneDrive\Escritorio\xd\obj\Debug\net7.0\xd.dll
+C:\Users\IngCa\OneDrive\Escritorio\xd\obj\Debug\net7.0\refint\xd.dll
+C:\Users\IngCa\OneDrive\Escritorio\xd\obj\Debug\net7.0\xd.pdb
+C:\Users\IngCa\OneDrive\Escritorio\xd\obj\Debug\net7.0\xd.genruntimeconfig.cache
+C:\Users\IngCa\OneDrive\Escritorio\xd\obj\Debug\net7.0\ref\xd.dll
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Generador de APA\bin\Debug\net7.0\xd.exe
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Generador de APA\bin\Debug\net7.0\xd.deps.json
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Generador de APA\bin\Debug\net7.0\xd.runtimeconfig.json
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Generador de APA\bin\Debug\net7.0\xd.dll
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Generador de APA\bin\Debug\net7.0\xd.pdb
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Generador de APA\obj\Debug\net7.0\xd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Generador de APA\obj\Debug\net7.0\xd.AssemblyInfoInputs.cache
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Generador de APA\obj\Debug\net7.0\xd.AssemblyInfo.cs
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Generador de APA\obj\Debug\net7.0\xd.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Generador de APA\obj\Debug\net7.0\xd.dll
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Generador de APA\obj\Debug\net7.0\refint\xd.dll
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Generador de APA\obj\Debug\net7.0\xd.pdb
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Generador de APA\obj\Debug\net7.0\xd.genruntimeconfig.cache
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Generador de APA\obj\Debug\net7.0\ref\xd.dll

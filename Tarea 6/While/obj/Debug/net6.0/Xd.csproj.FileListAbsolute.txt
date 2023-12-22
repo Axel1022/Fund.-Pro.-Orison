@@ -1,0 +1,44 @@
+C:\Users\IngCa\Desktop\Xd\bin\Debug\net6.0\Xd.exe
+C:\Users\IngCa\Desktop\Xd\bin\Debug\net6.0\Xd.deps.json
+C:\Users\IngCa\Desktop\Xd\bin\Debug\net6.0\Xd.runtimeconfig.json
+C:\Users\IngCa\Desktop\Xd\bin\Debug\net6.0\Xd.dll
+C:\Users\IngCa\Desktop\Xd\bin\Debug\net6.0\Xd.pdb
+C:\Users\IngCa\Desktop\Xd\obj\Debug\net6.0\Xd.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Xd\obj\Debug\net6.0\Xd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Xd\obj\Debug\net6.0\Xd.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Xd\obj\Debug\net6.0\Xd.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Xd\obj\Debug\net6.0\Xd.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Xd\obj\Debug\net6.0\Xd.dll
+C:\Users\IngCa\Desktop\Xd\obj\Debug\net6.0\refint\Xd.dll
+C:\Users\IngCa\Desktop\Xd\obj\Debug\net6.0\Xd.pdb
+C:\Users\IngCa\Desktop\Xd\obj\Debug\net6.0\Xd.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Xd\obj\Debug\net6.0\ref\Xd.dll
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\While\bin\Debug\net6.0\Xd.exe
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\While\bin\Debug\net6.0\Xd.deps.json
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\While\bin\Debug\net6.0\Xd.runtimeconfig.json
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\While\bin\Debug\net6.0\Xd.dll
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\While\bin\Debug\net6.0\Xd.pdb
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\While\obj\Debug\net6.0\Xd.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\While\obj\Debug\net6.0\Xd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\While\obj\Debug\net6.0\Xd.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\While\obj\Debug\net6.0\Xd.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\While\obj\Debug\net6.0\Xd.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\While\obj\Debug\net6.0\Xd.dll
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\While\obj\Debug\net6.0\refint\Xd.dll
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\While\obj\Debug\net6.0\Xd.pdb
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\While\obj\Debug\net6.0\Xd.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Universidad\Orison\Tarea 6\While\obj\Debug\net6.0\ref\Xd.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Tarea 6\While\bin\Debug\net6.0\Xd.deps.json
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Tarea 6\While\bin\Debug\net6.0\Xd.runtimeconfig.json
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Tarea 6\While\bin\Debug\net6.0\Xd.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Tarea 6\While\bin\Debug\net6.0\Xd.pdb
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Tarea 6\While\obj\Debug\net6.0\Xd.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Tarea 6\While\obj\Debug\net6.0\Xd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Tarea 6\While\obj\Debug\net6.0\Xd.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Tarea 6\While\obj\Debug\net6.0\Xd.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Tarea 6\While\obj\Debug\net6.0\Xd.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Tarea 6\While\obj\Debug\net6.0\Xd.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Tarea 6\While\obj\Debug\net6.0\refint\Xd.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Tarea 6\While\obj\Debug\net6.0\Xd.pdb
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Tarea 6\While\obj\Debug\net6.0\Xd.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Tarea 6\While\obj\Debug\net6.0\ref\Xd.dll

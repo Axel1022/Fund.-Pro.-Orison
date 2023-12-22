@@ -1,0 +1,67 @@
+C:\fundamentos\tarea5\bin\Debug\net7.0\Tarea5.exe
+C:\fundamentos\tarea5\bin\Debug\net7.0\Tarea5.deps.json
+C:\fundamentos\tarea5\bin\Debug\net7.0\Tarea5.runtimeconfig.json
+C:\fundamentos\tarea5\bin\Debug\net7.0\Tarea5.dll
+C:\fundamentos\tarea5\bin\Debug\net7.0\Tarea5.pdb
+C:\fundamentos\tarea5\obj\Debug\net7.0\Tarea5.csproj.AssemblyReference.cache
+C:\fundamentos\tarea5\obj\Debug\net7.0\Tarea5.GeneratedMSBuildEditorConfig.editorconfig
+C:\fundamentos\tarea5\obj\Debug\net7.0\Tarea5.AssemblyInfoInputs.cache
+C:\fundamentos\tarea5\obj\Debug\net7.0\Tarea5.AssemblyInfo.cs
+C:\fundamentos\tarea5\obj\Debug\net7.0\Tarea5.csproj.CoreCompileInputs.cache
+C:\fundamentos\tarea5\obj\Debug\net7.0\Tarea5.dll
+C:\fundamentos\tarea5\obj\Debug\net7.0\refint\Tarea5.dll
+C:\fundamentos\tarea5\obj\Debug\net7.0\Tarea5.pdb
+C:\fundamentos\tarea5\obj\Debug\net7.0\Tarea5.genruntimeconfig.cache
+C:\fundamentos\tarea5\obj\Debug\net7.0\ref\Tarea5.dll
+C:\fundamentos\tarea5\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\fundamentos\tarea5\obj\Debug\net7.0\Tarea5.csproj.CopyComplete
+C:\Users\Derik Diaz\Desktop\Abc\ORBI\bin\Debug\net7.0\Tarea5.exe
+C:\Users\Derik Diaz\Desktop\Abc\ORBI\bin\Debug\net7.0\Tarea5.deps.json
+C:\Users\Derik Diaz\Desktop\Abc\ORBI\bin\Debug\net7.0\Tarea5.runtimeconfig.json
+C:\Users\Derik Diaz\Desktop\Abc\ORBI\bin\Debug\net7.0\Tarea5.dll
+C:\Users\Derik Diaz\Desktop\Abc\ORBI\bin\Debug\net7.0\Tarea5.pdb
+C:\Users\Derik Diaz\Desktop\Abc\ORBI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Derik Diaz\Desktop\Abc\ORBI\obj\Debug\net7.0\Tarea5.csproj.AssemblyReference.cache
+C:\Users\Derik Diaz\Desktop\Abc\ORBI\obj\Debug\net7.0\Tarea5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Derik Diaz\Desktop\Abc\ORBI\obj\Debug\net7.0\Tarea5.AssemblyInfoInputs.cache
+C:\Users\Derik Diaz\Desktop\Abc\ORBI\obj\Debug\net7.0\Tarea5.AssemblyInfo.cs
+C:\Users\Derik Diaz\Desktop\Abc\ORBI\obj\Debug\net7.0\Tarea5.csproj.CoreCompileInputs.cache
+C:\Users\Derik Diaz\Desktop\Abc\ORBI\obj\Debug\net7.0\Tarea5.csproj.CopyComplete
+C:\Users\Derik Diaz\Desktop\Abc\ORBI\obj\Debug\net7.0\Tarea5.dll
+C:\Users\Derik Diaz\Desktop\Abc\ORBI\obj\Debug\net7.0\refint\Tarea5.dll
+C:\Users\Derik Diaz\Desktop\Abc\ORBI\obj\Debug\net7.0\Tarea5.pdb
+C:\Users\Derik Diaz\Desktop\Abc\ORBI\obj\Debug\net7.0\Tarea5.genruntimeconfig.cache
+C:\Users\Derik Diaz\Desktop\Abc\ORBI\obj\Debug\net7.0\ref\Tarea5.dll
+C:\Users\Derik Diaz\Desktop\ORBI\bin\Debug\net7.0\Tarea5.exe
+C:\Users\Derik Diaz\Desktop\ORBI\bin\Debug\net7.0\Tarea5.deps.json
+C:\Users\Derik Diaz\Desktop\ORBI\bin\Debug\net7.0\Tarea5.runtimeconfig.json
+C:\Users\Derik Diaz\Desktop\ORBI\bin\Debug\net7.0\Tarea5.dll
+C:\Users\Derik Diaz\Desktop\ORBI\bin\Debug\net7.0\Tarea5.pdb
+C:\Users\Derik Diaz\Desktop\ORBI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Derik Diaz\Desktop\ORBI\obj\Debug\net7.0\Tarea5.csproj.AssemblyReference.cache
+C:\Users\Derik Diaz\Desktop\ORBI\obj\Debug\net7.0\Tarea5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Derik Diaz\Desktop\ORBI\obj\Debug\net7.0\Tarea5.AssemblyInfoInputs.cache
+C:\Users\Derik Diaz\Desktop\ORBI\obj\Debug\net7.0\Tarea5.AssemblyInfo.cs
+C:\Users\Derik Diaz\Desktop\ORBI\obj\Debug\net7.0\Tarea5.csproj.CoreCompileInputs.cache
+C:\Users\Derik Diaz\Desktop\ORBI\obj\Debug\net7.0\Tarea5.csproj.CopyComplete
+C:\Users\Derik Diaz\Desktop\ORBI\obj\Debug\net7.0\Tarea5.dll
+C:\Users\Derik Diaz\Desktop\ORBI\obj\Debug\net7.0\refint\Tarea5.dll
+C:\Users\Derik Diaz\Desktop\ORBI\obj\Debug\net7.0\Tarea5.pdb
+C:\Users\Derik Diaz\Desktop\ORBI\obj\Debug\net7.0\Tarea5.genruntimeconfig.cache
+C:\Users\Derik Diaz\Desktop\ORBI\obj\Debug\net7.0\ref\Tarea5.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\ORBI\bin\Debug\net7.0\Tarea5.deps.json
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\ORBI\bin\Debug\net7.0\Tarea5.runtimeconfig.json
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\ORBI\bin\Debug\net7.0\Tarea5.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\ORBI\bin\Debug\net7.0\Tarea5.pdb
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\ORBI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\ORBI\obj\Debug\net7.0\Tarea5.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\ORBI\obj\Debug\net7.0\Tarea5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\ORBI\obj\Debug\net7.0\Tarea5.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\ORBI\obj\Debug\net7.0\Tarea5.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\ORBI\obj\Debug\net7.0\Tarea5.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\ORBI\obj\Debug\net7.0\Tarea5.csproj.CopyComplete
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\ORBI\obj\Debug\net7.0\Tarea5.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\ORBI\obj\Debug\net7.0\refint\Tarea5.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\ORBI\obj\Debug\net7.0\Tarea5.pdb
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\ORBI\obj\Debug\net7.0\Tarea5.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\ORBI\obj\Debug\net7.0\ref\Tarea5.dll

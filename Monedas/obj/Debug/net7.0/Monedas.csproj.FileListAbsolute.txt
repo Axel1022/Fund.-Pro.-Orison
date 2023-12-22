@@ -1,0 +1,15 @@
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Monedas\bin\Debug\net7.0\Monedas.exe
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Monedas\bin\Debug\net7.0\Monedas.deps.json
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Monedas\bin\Debug\net7.0\Monedas.runtimeconfig.json
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Monedas\bin\Debug\net7.0\Monedas.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Monedas\bin\Debug\net7.0\Monedas.pdb
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Monedas\obj\Debug\net7.0\Monedas.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Monedas\obj\Debug\net7.0\Monedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Monedas\obj\Debug\net7.0\Monedas.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Monedas\obj\Debug\net7.0\Monedas.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Monedas\obj\Debug\net7.0\Monedas.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Monedas\obj\Debug\net7.0\Monedas.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Monedas\obj\Debug\net7.0\refint\Monedas.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Monedas\obj\Debug\net7.0\Monedas.pdb
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Monedas\obj\Debug\net7.0\Monedas.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Monedas\obj\Debug\net7.0\ref\Monedas.dll

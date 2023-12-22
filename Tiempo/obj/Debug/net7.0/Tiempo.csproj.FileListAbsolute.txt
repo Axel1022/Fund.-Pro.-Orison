@@ -1,0 +1,15 @@
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tiempo\bin\Debug\net7.0\Tiempo.exe
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tiempo\bin\Debug\net7.0\Tiempo.deps.json
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tiempo\bin\Debug\net7.0\Tiempo.runtimeconfig.json
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tiempo\bin\Debug\net7.0\Tiempo.dll
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tiempo\bin\Debug\net7.0\Tiempo.pdb
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tiempo\obj\Debug\net7.0\Tiempo.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tiempo\obj\Debug\net7.0\Tiempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tiempo\obj\Debug\net7.0\Tiempo.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tiempo\obj\Debug\net7.0\Tiempo.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tiempo\obj\Debug\net7.0\Tiempo.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tiempo\obj\Debug\net7.0\Tiempo.dll
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tiempo\obj\Debug\net7.0\refint\Tiempo.dll
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tiempo\obj\Debug\net7.0\Tiempo.pdb
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tiempo\obj\Debug\net7.0\Tiempo.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Carpetas\Programacion C#\Tiempo\obj\Debug\net7.0\ref\Tiempo.dll

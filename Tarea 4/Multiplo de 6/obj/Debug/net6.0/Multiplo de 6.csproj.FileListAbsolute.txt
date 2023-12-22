@@ -1,0 +1,15 @@
+C:\Users\IngCa\Desktop\Orison\Tarea 4\Multiplo de 6\bin\Debug\net6.0\Multiplo de 6.exe
+C:\Users\IngCa\Desktop\Orison\Tarea 4\Multiplo de 6\bin\Debug\net6.0\Multiplo de 6.deps.json
+C:\Users\IngCa\Desktop\Orison\Tarea 4\Multiplo de 6\bin\Debug\net6.0\Multiplo de 6.runtimeconfig.json
+C:\Users\IngCa\Desktop\Orison\Tarea 4\Multiplo de 6\bin\Debug\net6.0\Multiplo de 6.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 4\Multiplo de 6\bin\Debug\net6.0\Multiplo de 6.pdb
+C:\Users\IngCa\Desktop\Orison\Tarea 4\Multiplo de 6\obj\Debug\net6.0\Multiplo de 6.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 4\Multiplo de 6\obj\Debug\net6.0\Multiplo de 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Orison\Tarea 4\Multiplo de 6\obj\Debug\net6.0\Multiplo de 6.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 4\Multiplo de 6\obj\Debug\net6.0\Multiplo de 6.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Orison\Tarea 4\Multiplo de 6\obj\Debug\net6.0\Multiplo de 6.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 4\Multiplo de 6\obj\Debug\net6.0\Multiplo de 6.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 4\Multiplo de 6\obj\Debug\net6.0\refint\Multiplo de 6.dll
+C:\Users\IngCa\Desktop\Orison\Tarea 4\Multiplo de 6\obj\Debug\net6.0\Multiplo de 6.pdb
+C:\Users\IngCa\Desktop\Orison\Tarea 4\Multiplo de 6\obj\Debug\net6.0\Multiplo de 6.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Orison\Tarea 4\Multiplo de 6\obj\Debug\net6.0\ref\Multiplo de 6.dll

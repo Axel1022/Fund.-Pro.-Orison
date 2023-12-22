@@ -1,0 +1,30 @@
+C:\Users\IngCa\Desktop\Practicas en CS\bin\Debug\net7.0\Practicas en CS.exe
+C:\Users\IngCa\Desktop\Practicas en CS\bin\Debug\net7.0\Practicas en CS.deps.json
+C:\Users\IngCa\Desktop\Practicas en CS\bin\Debug\net7.0\Practicas en CS.runtimeconfig.json
+C:\Users\IngCa\Desktop\Practicas en CS\bin\Debug\net7.0\Practicas en CS.dll
+C:\Users\IngCa\Desktop\Practicas en CS\bin\Debug\net7.0\Practicas en CS.pdb
+C:\Users\IngCa\Desktop\Practicas en CS\obj\Debug\net7.0\Practicas en CS.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Practicas en CS\obj\Debug\net7.0\Practicas en CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Practicas en CS\obj\Debug\net7.0\Practicas en CS.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Practicas en CS\obj\Debug\net7.0\Practicas en CS.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Practicas en CS\obj\Debug\net7.0\Practicas en CS.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Practicas en CS\obj\Debug\net7.0\Practicas en CS.dll
+C:\Users\IngCa\Desktop\Practicas en CS\obj\Debug\net7.0\refint\Practicas en CS.dll
+C:\Users\IngCa\Desktop\Practicas en CS\obj\Debug\net7.0\Practicas en CS.pdb
+C:\Users\IngCa\Desktop\Practicas en CS\obj\Debug\net7.0\Practicas en CS.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Practicas en CS\obj\Debug\net7.0\ref\Practicas en CS.dll
+C:\Users\IngCa\Desktop\Programas de CS\Practicas en CS\bin\Debug\net7.0\Practicas en CS.exe
+C:\Users\IngCa\Desktop\Programas de CS\Practicas en CS\bin\Debug\net7.0\Practicas en CS.deps.json
+C:\Users\IngCa\Desktop\Programas de CS\Practicas en CS\bin\Debug\net7.0\Practicas en CS.runtimeconfig.json
+C:\Users\IngCa\Desktop\Programas de CS\Practicas en CS\bin\Debug\net7.0\Practicas en CS.dll
+C:\Users\IngCa\Desktop\Programas de CS\Practicas en CS\bin\Debug\net7.0\Practicas en CS.pdb
+C:\Users\IngCa\Desktop\Programas de CS\Practicas en CS\obj\Debug\net7.0\Practicas en CS.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Programas de CS\Practicas en CS\obj\Debug\net7.0\Practicas en CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Programas de CS\Practicas en CS\obj\Debug\net7.0\Practicas en CS.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Programas de CS\Practicas en CS\obj\Debug\net7.0\Practicas en CS.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Programas de CS\Practicas en CS\obj\Debug\net7.0\Practicas en CS.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Programas de CS\Practicas en CS\obj\Debug\net7.0\Practicas en CS.dll
+C:\Users\IngCa\Desktop\Programas de CS\Practicas en CS\obj\Debug\net7.0\refint\Practicas en CS.dll
+C:\Users\IngCa\Desktop\Programas de CS\Practicas en CS\obj\Debug\net7.0\Practicas en CS.pdb
+C:\Users\IngCa\Desktop\Programas de CS\Practicas en CS\obj\Debug\net7.0\Practicas en CS.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Programas de CS\Practicas en CS\obj\Debug\net7.0\ref\Practicas en CS.dll

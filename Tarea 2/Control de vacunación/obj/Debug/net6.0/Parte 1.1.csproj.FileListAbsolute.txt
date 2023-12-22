@@ -1,0 +1,29 @@
+C:\Users\IngCa\Desktop\Orison\Parte 1.1\obj\Debug\net6.0\Parte 1.1.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Orison\Parte 1.1\obj\Debug\net6.0\Parte 1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Orison\Parte 1.1\obj\Debug\net6.0\Parte 1.1.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Orison\Parte 1.1\obj\Debug\net6.0\Parte 1.1.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Orison\Parte 1.1\obj\Debug\net6.0\Parte 1.1.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Orison\Parte 1.1\bin\Debug\net6.0\Parte 1.1.exe
+C:\Users\IngCa\Desktop\Orison\Parte 1.1\bin\Debug\net6.0\Parte 1.1.deps.json
+C:\Users\IngCa\Desktop\Orison\Parte 1.1\bin\Debug\net6.0\Parte 1.1.runtimeconfig.json
+C:\Users\IngCa\Desktop\Orison\Parte 1.1\bin\Debug\net6.0\Parte 1.1.dll
+C:\Users\IngCa\Desktop\Orison\Parte 1.1\bin\Debug\net6.0\Parte 1.1.pdb
+C:\Users\IngCa\Desktop\Orison\Parte 1.1\obj\Debug\net6.0\Parte 1.1.dll
+C:\Users\IngCa\Desktop\Orison\Parte 1.1\obj\Debug\net6.0\refint\Parte 1.1.dll
+C:\Users\IngCa\Desktop\Orison\Parte 1.1\obj\Debug\net6.0\Parte 1.1.pdb
+C:\Users\IngCa\Desktop\Orison\Parte 1.1\obj\Debug\net6.0\Parte 1.1.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Orison\Parte 1.1\obj\Debug\net6.0\ref\Parte 1.1.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Tarea 2\Control de vacunación\bin\Debug\net6.0\Parte 1.1.deps.json
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Tarea 2\Control de vacunación\bin\Debug\net6.0\Parte 1.1.runtimeconfig.json
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Tarea 2\Control de vacunación\bin\Debug\net6.0\Parte 1.1.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Tarea 2\Control de vacunación\bin\Debug\net6.0\Parte 1.1.pdb
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Tarea 2\Control de vacunación\obj\Debug\net6.0\Parte 1.1.csproj.AssemblyReference.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Tarea 2\Control de vacunación\obj\Debug\net6.0\Parte 1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Tarea 2\Control de vacunación\obj\Debug\net6.0\Parte 1.1.AssemblyInfoInputs.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Tarea 2\Control de vacunación\obj\Debug\net6.0\Parte 1.1.AssemblyInfo.cs
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Tarea 2\Control de vacunación\obj\Debug\net6.0\Parte 1.1.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Tarea 2\Control de vacunación\obj\Debug\net6.0\Parte 1.1.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Tarea 2\Control de vacunación\obj\Debug\net6.0\refint\Parte 1.1.dll
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Tarea 2\Control de vacunación\obj\Debug\net6.0\Parte 1.1.pdb
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Tarea 2\Control de vacunación\obj\Debug\net6.0\Parte 1.1.genruntimeconfig.cache
+C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Tarea 2\Control de vacunación\obj\Debug\net6.0\ref\Parte 1.1.dll

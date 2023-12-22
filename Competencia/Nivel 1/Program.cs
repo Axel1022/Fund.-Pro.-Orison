@@ -1,0 +1,22 @@
+﻿using System;
+Console.Write("Ingrese su nombre: ");
+string Nombre = Console.ReadLine();
+Console.Write("Ingrese su apellido: ");
+string Apellido = Console.ReadLine();
+Console.Write("Ingrese su edad: ");
+int Edad = int.Parse(Console.ReadLine());
+Console.Write("Ingrese su peso: ");
+string Peso = Console.ReadLine();
+Console.Write("Ingrese su numero de telefono: ");
+string Telefono = Console.ReadLine();
+Console.Write("Ingrese nombre del banco al que esta afiliado: ");
+string Banco = Console.ReadLine();
+Console.Write("Ingrese el monto que tiene ahorrado: ");
+dynamic  Monto = Int64.Parse(Console.ReadLine()); 
+Monto = Monto - Edad;
+//!Salida
+Console.Clear();
+Console.WriteLine($"{Nombre} {Apellido}, tiene {Edad} años de edad, pesa {Peso}.");
+Console.WriteLine($"Su numero de telefono es: {Telefono}");
+Console.WriteLine($"Su banco afiliado: {Banco}.");
+Console.WriteLine($"Tiene un total de: {Monto} pesos ahorrados.");

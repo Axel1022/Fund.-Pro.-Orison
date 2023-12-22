@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "beIgh6oEXP6Phn2BRwNoMZ7lEJ7uRLJwpsvMhsxGjg+XVmorFZv3+hNybWhIM0nblR3ZLIfCclNoxjrlu9zDWw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\IngCa\\Desktop\\Universidad\\Fundamerntos\\Orison\\Tarea 7-8\\Arrays\\Arrays.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.NETCore.App.Host.win-x64\" del origen remoto \"https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.host.win-x64/index.json\".",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.AspNetCore.App.Ref\" del origen remoto \"https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.app.ref/index.json\".",
+      "libraryId": "Microsoft.AspNetCore.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.WindowsDesktop.App.Ref\" del origen remoto \"https://api.nuget.org/v3-flatcontainer/microsoft.windowsdesktop.app.ref/index.json\".",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.NETCore.App.Ref\" del origen remoto \"https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.ref/index.json\".",
+      "libraryId": "Microsoft.NETCore.App.Ref"
+    }
+  ]
+}
