@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IngCa\\OneDrive\\Escritorio\\Examen\\Examen.csproj": {}
+    "C:\\Users\\IngCa\\OneDrive\\Escritorio\\Programacion\\VS Code\\C#\\Fund. Pro. Orison\\Examen\\Examen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IngCa\\OneDrive\\Escritorio\\Examen\\Examen.csproj": {
+    "C:\\Users\\IngCa\\OneDrive\\Escritorio\\Programacion\\VS Code\\C#\\Fund. Pro. Orison\\Examen\\Examen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IngCa\\OneDrive\\Escritorio\\Examen\\Examen.csproj",
+        "projectUniqueName": "C:\\Users\\IngCa\\OneDrive\\Escritorio\\Programacion\\VS Code\\C#\\Fund. Pro. Orison\\Examen\\Examen.csproj",
         "projectName": "Examen",
-        "projectPath": "C:\\Users\\IngCa\\OneDrive\\Escritorio\\Examen\\Examen.csproj",
+        "projectPath": "C:\\Users\\IngCa\\OneDrive\\Escritorio\\Programacion\\VS Code\\C#\\Fund. Pro. Orison\\Examen\\Examen.csproj",
         "packagesPath": "C:\\Users\\IngCa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IngCa\\OneDrive\\Escritorio\\Examen\\obj\\",
+        "outputPath": "C:\\Users\\IngCa\\OneDrive\\Escritorio\\Programacion\\VS Code\\C#\\Fund. Pro. Orison\\Examen\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\IngCa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,7 +22,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.powershellgallery.com/api/v2/": {}
         },
         "frameworks": {
           "net7.0": {
@@ -55,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

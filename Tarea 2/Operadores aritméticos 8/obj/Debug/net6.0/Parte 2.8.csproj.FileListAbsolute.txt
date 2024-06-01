@@ -13,3 +13,18 @@ C:\Users\IngCa\Desktop\Orison\Parte 2.8\obj\Debug\net6.0\refint\Parte 2.8.dll
 C:\Users\IngCa\Desktop\Orison\Parte 2.8\obj\Debug\net6.0\Parte 2.8.pdb
 C:\Users\IngCa\Desktop\Orison\Parte 2.8\obj\Debug\net6.0\Parte 2.8.genruntimeconfig.cache
 C:\Users\IngCa\Desktop\Orison\Parte 2.8\obj\Debug\net6.0\ref\Parte 2.8.dll
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 8\bin\Debug\net6.0\Parte 2.8.exe
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 8\bin\Debug\net6.0\Parte 2.8.deps.json
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 8\bin\Debug\net6.0\Parte 2.8.runtimeconfig.json
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 8\bin\Debug\net6.0\Parte 2.8.dll
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 8\bin\Debug\net6.0\Parte 2.8.pdb
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 8\obj\Debug\net6.0\Parte 2.8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 8\obj\Debug\net6.0\Parte 2.8.AssemblyInfoInputs.cache
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 8\obj\Debug\net6.0\Parte 2.8.AssemblyInfo.cs
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 8\obj\Debug\net6.0\Parte 2.8.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 8\obj\Debug\net6.0\Parte 2.8.sourcelink.json
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 8\obj\Debug\net6.0\Parte 2.8.dll
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 8\obj\Debug\net6.0\refint\Parte 2.8.dll
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 8\obj\Debug\net6.0\Parte 2.8.pdb
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 8\obj\Debug\net6.0\Parte 2.8.genruntimeconfig.cache
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 8\obj\Debug\net6.0\ref\Parte 2.8.dll

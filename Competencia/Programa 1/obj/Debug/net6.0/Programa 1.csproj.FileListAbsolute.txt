@@ -57,3 +57,18 @@ C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Competencia\Programa
 C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Competencia\Programa 1\obj\Debug\net6.0\Programa 1.pdb
 C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Competencia\Programa 1\obj\Debug\net6.0\Programa 1.genruntimeconfig.cache
 C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Competencia\Programa 1\obj\Debug\net6.0\ref\Programa 1.dll
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Competencia\Programa 1\bin\Debug\net6.0\Programa 1.exe
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Competencia\Programa 1\bin\Debug\net6.0\Programa 1.deps.json
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Competencia\Programa 1\bin\Debug\net6.0\Programa 1.runtimeconfig.json
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Competencia\Programa 1\bin\Debug\net6.0\Programa 1.dll
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Competencia\Programa 1\bin\Debug\net6.0\Programa 1.pdb
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Competencia\Programa 1\obj\Debug\net6.0\Programa 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Competencia\Programa 1\obj\Debug\net6.0\Programa 1.AssemblyInfoInputs.cache
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Competencia\Programa 1\obj\Debug\net6.0\Programa 1.AssemblyInfo.cs
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Competencia\Programa 1\obj\Debug\net6.0\Programa 1.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Competencia\Programa 1\obj\Debug\net6.0\Programa 1.sourcelink.json
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Competencia\Programa 1\obj\Debug\net6.0\Programa 1.dll
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Competencia\Programa 1\obj\Debug\net6.0\refint\Programa 1.dll
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Competencia\Programa 1\obj\Debug\net6.0\Programa 1.pdb
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Competencia\Programa 1\obj\Debug\net6.0\Programa 1.genruntimeconfig.cache
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Competencia\Programa 1\obj\Debug\net6.0\ref\Programa 1.dll

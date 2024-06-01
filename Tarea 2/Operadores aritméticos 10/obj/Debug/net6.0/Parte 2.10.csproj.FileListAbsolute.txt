@@ -28,3 +28,18 @@ C:\Users\IngCa\Desktop\Orison\Tarea 2\Operadores aritméticos 10\obj\Debug\net6.
 C:\Users\IngCa\Desktop\Orison\Tarea 2\Operadores aritméticos 10\obj\Debug\net6.0\Parte 2.10.pdb
 C:\Users\IngCa\Desktop\Orison\Tarea 2\Operadores aritméticos 10\obj\Debug\net6.0\Parte 2.10.genruntimeconfig.cache
 C:\Users\IngCa\Desktop\Orison\Tarea 2\Operadores aritméticos 10\obj\Debug\net6.0\ref\Parte 2.10.dll
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 10\bin\Debug\net6.0\Parte 2.10.exe
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 10\bin\Debug\net6.0\Parte 2.10.deps.json
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 10\bin\Debug\net6.0\Parte 2.10.runtimeconfig.json
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 10\bin\Debug\net6.0\Parte 2.10.dll
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 10\bin\Debug\net6.0\Parte 2.10.pdb
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 10\obj\Debug\net6.0\Parte 2.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 10\obj\Debug\net6.0\Parte 2.10.AssemblyInfoInputs.cache
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 10\obj\Debug\net6.0\Parte 2.10.AssemblyInfo.cs
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 10\obj\Debug\net6.0\Parte 2.10.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 10\obj\Debug\net6.0\Parte 2.10.sourcelink.json
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 10\obj\Debug\net6.0\Parte 2.10.dll
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 10\obj\Debug\net6.0\refint\Parte 2.10.dll
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 10\obj\Debug\net6.0\Parte 2.10.pdb
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 10\obj\Debug\net6.0\Parte 2.10.genruntimeconfig.cache
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 10\obj\Debug\net6.0\ref\Parte 2.10.dll

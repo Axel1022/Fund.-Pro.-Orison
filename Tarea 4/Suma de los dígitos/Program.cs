@@ -5,8 +5,7 @@ internal class Program
     private static void Main(string[] args)
     {
         //Variables
-        int Num, Num1, Num2, Numf;
-        //Entrada
+        int Num, Num1, Num2, Numf;        //Entrada
         Console.WriteLine("Ingrese un numero de dos digitos");
         Num = int.Parse(Console.ReadLine());
         //Proceso

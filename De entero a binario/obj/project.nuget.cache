@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1SyGA7fbOWpZpEj7fZpAp6r8H3lMfxf9XykPnXgncDxtPOzpbF6W1Y2TYIMoJWTOXoRIzh+Qxiq2OuGDscvlKg==",
+  "dgSpecHash": "U9JMcwpmj3RDTIOS3qgybCIYs4mSN0yuVms2EU8yJfKXxstnzqVA6PZf8ZI4N2DPLc7SamN2HBPhVmMvsUkcyQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\IngCa\\OneDrive\\Escritorio\\Carpetas\\Programacion C#\\De entero a binario\\De entero a binario.csproj",
+  "projectFilePath": "C:\\Users\\IngCa\\OneDrive\\Escritorio\\Programacion\\VS Code\\C#\\Fund. Pro. Orison\\De entero a binario\\De entero a binario.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IngCa\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
   ],

@@ -43,3 +43,18 @@ C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Tarea 4\Suma de los 
 C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Tarea 4\Suma de los dígitos\obj\Debug\net6.0\Suma de los dígitos.pdb
 C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Tarea 4\Suma de los dígitos\obj\Debug\net6.0\Suma de los dígitos.genruntimeconfig.cache
 C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Programacion C#\Tarea 4\Suma de los dígitos\obj\Debug\net6.0\ref\Suma de los dígitos.dll
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 4\Suma de los dígitos\bin\Debug\net6.0\Suma de los dígitos.exe
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 4\Suma de los dígitos\bin\Debug\net6.0\Suma de los dígitos.deps.json
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 4\Suma de los dígitos\bin\Debug\net6.0\Suma de los dígitos.runtimeconfig.json
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 4\Suma de los dígitos\bin\Debug\net6.0\Suma de los dígitos.dll
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 4\Suma de los dígitos\bin\Debug\net6.0\Suma de los dígitos.pdb
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 4\Suma de los dígitos\obj\Debug\net6.0\Suma de los dígitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 4\Suma de los dígitos\obj\Debug\net6.0\Suma de los dígitos.AssemblyInfoInputs.cache
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 4\Suma de los dígitos\obj\Debug\net6.0\Suma de los dígitos.AssemblyInfo.cs
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 4\Suma de los dígitos\obj\Debug\net6.0\Suma de los dígitos.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 4\Suma de los dígitos\obj\Debug\net6.0\Suma de los dígitos.sourcelink.json
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 4\Suma de los dígitos\obj\Debug\net6.0\Suma de los dígitos.dll
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 4\Suma de los dígitos\obj\Debug\net6.0\refint\Suma de los dígitos.dll
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 4\Suma de los dígitos\obj\Debug\net6.0\Suma de los dígitos.pdb
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 4\Suma de los dígitos\obj\Debug\net6.0\Suma de los dígitos.genruntimeconfig.cache
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 4\Suma de los dígitos\obj\Debug\net6.0\ref\Suma de los dígitos.dll

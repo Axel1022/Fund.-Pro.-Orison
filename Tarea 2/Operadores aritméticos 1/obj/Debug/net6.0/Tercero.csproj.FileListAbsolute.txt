@@ -27,3 +27,18 @@ C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Tarea 2\Operadores aritm�
 C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Tarea 2\Operadores aritméticos 1\obj\Debug\net6.0\Tercero.pdb
 C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Tarea 2\Operadores aritméticos 1\obj\Debug\net6.0\Tercero.genruntimeconfig.cache
 C:\Users\IngCa\Desktop\Universidad\Fundamerntos\Orison\Tarea 2\Operadores aritméticos 1\obj\Debug\net6.0\ref\Tercero.dll
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 1\bin\Debug\net6.0\Tercero.exe
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 1\bin\Debug\net6.0\Tercero.deps.json
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 1\bin\Debug\net6.0\Tercero.runtimeconfig.json
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 1\bin\Debug\net6.0\Tercero.dll
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 1\bin\Debug\net6.0\Tercero.pdb
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 1\obj\Debug\net6.0\Tercero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 1\obj\Debug\net6.0\Tercero.AssemblyInfoInputs.cache
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 1\obj\Debug\net6.0\Tercero.AssemblyInfo.cs
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 1\obj\Debug\net6.0\Tercero.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 1\obj\Debug\net6.0\Tercero.sourcelink.json
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 1\obj\Debug\net6.0\Tercero.dll
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 1\obj\Debug\net6.0\refint\Tercero.dll
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 1\obj\Debug\net6.0\Tercero.pdb
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 1\obj\Debug\net6.0\Tercero.genruntimeconfig.cache
+C:\Users\IngCa\OneDrive\Escritorio\Programacion\VS Code\C#\Fund. Pro. Orison\Tarea 2\Operadores aritméticos 1\obj\Debug\net6.0\ref\Tercero.dll

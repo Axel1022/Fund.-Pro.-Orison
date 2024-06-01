@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("De entero a binario")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba9ab7a21f92c7c88b198899614122afd9cd4e08")]
 [assembly: System.Reflection.AssemblyProductAttribute("De entero a binario")]
 [assembly: System.Reflection.AssemblyTitleAttribute("De entero a binario")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
